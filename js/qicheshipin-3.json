@@ -1,0 +1,31 @@
+[
+	{
+		"totalCount": 2,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "车载香水座佛像",
+				"productImage": "http://image.3tcc.cn/imagesService/529l3p6d20161222141249287529.jpg",
+				"productPrice": 38,
+				"productusePoint": 0,
+				"productId": 734,
+				"productMobilePrice": 38,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 16
+			}, {
+				"productName": "精美挂饰",
+				"productImage": "http://image.3tcc.cn/imagesService/5742vdlh20170103093112434574.jpg",
+				"productPrice": 58,
+				"productusePoint": 0,
+				"productId": 1183,
+				"productMobilePrice": 58,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 12
+			}
+		]
+	}
+]

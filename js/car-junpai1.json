@@ -1,0 +1,31 @@
+[
+	{
+		"totalCount": 2,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "骏派A70",
+				"productImage": "http://image.3tcc.cn/imagesService/025y9tg620161229143454796025.jpg",
+				"productPrice": 62800,
+				"productusePoint": 0,
+				"productId": 1058,
+				"productMobilePrice": 62800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 117
+			}, {
+				"productName": "骏派D60",
+				"productImage": "http://image.3tcc.cn/imagesService/75711b2e20161229095904405757.jpg",
+				"productPrice": 59900,
+				"productusePoint": 0,
+				"productId": 983,
+				"productMobilePrice": 59900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 96
+			}
+		]
+	}
+]

@@ -1,0 +1,291 @@
+[
+	{
+		"api_code": "0",
+		"api_data": [
+			{
+				"categoryId": 134,
+				"categoryName": "灯饰",
+				"bannerImage": "http://image.3tcc.cn/imagesService/855un4qm20161222132728218855.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 137,
+						"categoryParent": 134,
+						"categoryParentName": "灯饰",
+						"categoryName": "台灯",
+						"categoryImage": "http://image.3tcc.cn/imagesService/753hwfja20161219203038550753.jpg"
+					}, {
+						"categoryId": 138,
+						"categoryParent": 134,
+						"categoryParentName": "灯饰",
+						"categoryName": "壁灯",
+						"categoryImage": "http://image.3tcc.cn/imagesService/4191l9o920161219203125911419.jpg"
+					}
+				]
+			}, {
+				"categoryId": 135,
+				"categoryName": "厨房",
+				"bannerImage": "http://image.3tcc.cn/imagesService/366ya8eq20161222132751945366.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 139,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "厨房龙头",
+						"categoryImage": "http://image.3tcc.cn/imagesService/707sciyi20161219203202620707.jpg"
+					}, {
+						"categoryId": 140,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "厨盆/水槽",
+						"categoryImage": "http://image.3tcc.cn/imagesService/0751cqhn20161219203404497075.jpg"
+					}, {
+						"categoryId": 189,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "灶具",
+						"categoryImage": "http://image.3tcc.cn/imagesService/368qbdq020170109090614964368.jpg"
+					}, {
+						"categoryId": 203,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "下水",
+						"categoryImage": "http://image.3tcc.cn/imagesService/72765gz520170119101020256727.jpg"
+					}, {
+						"categoryId": 204,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "地漏",
+						"categoryImage": "http://image.3tcc.cn/imagesService/151uilgr20170119101617862151.jpg"
+					}, {
+						"categoryId": 193,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "集成灶",
+						"categoryImage": "http://image.3tcc.cn/imagesService/087tthm220170109110304319087.jpg"
+					}, {
+						"categoryId": 214,
+						"categoryParent": 135,
+						"categoryParentName": "厨房",
+						"categoryName": "油烟机",
+						"categoryImage": "http://image.3tcc.cn/imagesService/680b7kab20170123100940627680.jpg"
+					}
+				]
+			}, {
+				"categoryId": 136,
+				"categoryName": "卫浴",
+				"bannerImage": "http://image.3tcc.cn/imagesService/012bb4k420161222132817410012.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 141,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "浴缸",
+						"categoryImage": "http://image.3tcc.cn/imagesService/763im0he20161219203444551763.jpg"
+					}, {
+						"categoryId": 142,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "浴室柜",
+						"categoryImage": "http://image.3tcc.cn/imagesService/584c9ucx20161219203522672584.jpg"
+					}, {
+						"categoryId": 188,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "热水器",
+						"categoryImage": "http://image.3tcc.cn/imagesService/25737dl420170109090548986257.jpg"
+					}, {
+						"categoryId": 190,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "蹲便器",
+						"categoryImage": "http://image.3tcc.cn/imagesService/3658fteq20170109100853717365.jpg"
+					}, {
+						"categoryId": 191,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "盥洗池",
+						"categoryImage": "http://image.3tcc.cn/imagesService/7368zijp20170109102643222736.jpg"
+					}, {
+						"categoryId": 192,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "淋浴花洒",
+						"categoryImage": "http://image.3tcc.cn/imagesService/69732ldv20170109104154856697.jpg"
+					}, {
+						"categoryId": 206,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "水箱",
+						"categoryImage": "http://image.3tcc.cn/imagesService/8188n5hh20170119105514392818.jpg"
+					}, {
+						"categoryId": 207,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "水阀",
+						"categoryImage": "http://image.3tcc.cn/imagesService/644kqryf20170120094032196644.jpg"
+					}, {
+						"categoryId": 210,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "龙头",
+						"categoryImage": "http://image.3tcc.cn/imagesService/447vtybi20170120114654695447.jpg"
+					}, {
+						"categoryId": 229,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "马桶",
+						"categoryImage": "http://image.3tcc.cn/imagesService/034lmfjm20170301145255896034.jpg"
+					}, {
+						"categoryId": 231,
+						"categoryParent": 136,
+						"categoryParentName": "卫浴",
+						"categoryName": "浴室镜",
+						"categoryImage": "http://image.3tcc.cn/imagesService/676dvfvs20170328143532987676.jpg"
+					}
+				]
+			}, {
+				"categoryId": 152,
+				"categoryName": "家 具",
+				"bannerImage": "http://image.3tcc.cn/imagesService/970yke5m20161222132913162970.jpg",
+				"bannerUrl": "家具",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 154,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "床",
+						"categoryImage": "http://image.3tcc.cn/imagesService/311exe4720161222133642929311.jpg"
+					}, {
+						"categoryId": 155,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "沙 发",
+						"categoryImage": "http://image.3tcc.cn/imagesService/546hz4n620161222133702858546.jpg"
+					}, {
+						"categoryId": 156,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "床 垫",
+						"categoryImage": "http://image.3tcc.cn/imagesService/966c6syg20161222133844168966.jpg"
+					}, {
+						"categoryId": 157,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "柜 体",
+						"categoryImage": "http://image.3tcc.cn/imagesService/774pkpn420161222133902366774.jpg"
+					}, {
+						"categoryId": 218,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "茶几",
+						"categoryImage": "http://image.3tcc.cn/imagesService/42241bie20170123150254550422.jpg"
+					}, {
+						"categoryId": 219,
+						"categoryParent": 152,
+						"categoryParentName": "家 具",
+						"categoryName": "餐 桌",
+						"categoryImage": "http://image.3tcc.cn/imagesService/995j9tel20170306101201369995.jpg"
+					}
+				]
+			}, {
+				"categoryId": 153,
+				"categoryName": "建 材",
+				"bannerImage": "http://image.3tcc.cn/imagesService/389kfcuq20161222135417906389.jpg",
+				"bannerUrl": "建材",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 158,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "门 窗",
+						"categoryImage": "http://image.3tcc.cn/imagesService/113duwos20161222133943541113.jpg"
+					}, {
+						"categoryId": 159,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "墙 地面",
+						"categoryImage": "http://image.3tcc.cn/imagesService/209oa54q20161222134001527209.jpg"
+					}, {
+						"categoryId": 205,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "油漆/油漆工具",
+						"categoryImage": "http://image.3tcc.cn/imagesService/930qpqq020170119105047885930.jpg"
+					}, {
+						"categoryId": 213,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "地板",
+						"categoryImage": "http://image.3tcc.cn/imagesService/174bo10820170122104751170174.jpg"
+					}, {
+						"categoryId": 215,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "装修",
+						"categoryImage": "http://image.3tcc.cn/imagesService/0434reni20170123142159352043.jpg"
+					}, {
+						"categoryId": 230,
+						"categoryParent": 153,
+						"categoryParentName": "建 材",
+						"categoryName": "瓷砖",
+						"categoryImage": "http://image.3tcc.cn/imagesService/833pvvcd20170317112243258833.jpg"
+					}
+				]
+			}, {
+				"categoryId": 200,
+				"categoryName": "五金",
+				"bannerImage": "http://image.3tcc.cn/imagesService/263g64r620170113112836564263.jpg",
+				"bannerUrl": "",
+				"categoryChildren": [
+					{
+						"categoryId": 201,
+						"categoryParent": 200,
+						"categoryParentName": "五金",
+						"categoryName": "插座/插孔/面板/开关",
+						"categoryImage": "http://image.3tcc.cn/imagesService/1344h0yl20170113114138343134.jpg"
+					}, {
+						"categoryId": 212,
+						"categoryParent": 200,
+						"categoryParentName": "五金",
+						"categoryName": "角阀",
+						"categoryImage": "http://image.3tcc.cn/imagesService/088q6jhi20170122102022644088.jpg"
+					}
+				]
+			}, {
+				"categoryId": 208,
+				"categoryName": "日用",
+				"bannerImage": "http://image.3tcc.cn/imagesService/6078oent20170120113914461607.jpg",
+				"bannerUrl": "",
+				"categoryChildren": [
+					{
+						"categoryId": 209,
+						"categoryParent": 208,
+						"categoryParentName": "日用",
+						"categoryName": "浴巾架/晾衣架/其他架",
+						"categoryImage": "http://image.3tcc.cn/imagesService/056qm3u120170120114029467056.jpg"
+					}, {
+						"categoryId": 211,
+						"categoryParent": 208,
+						"categoryParentName": "日用",
+						"categoryName": "拖把槽",
+						"categoryImage": "http://image.3tcc.cn/imagesService/521pq9fn20170122092917747521.jpg"
+					}
+				]
+			}, {
+				"categoryId": 224,
+				"categoryName": "布艺/装饰/窗帘",
+				"bannerImage": "http://image.3tcc.cn/imagesService/337m6n8920170209092054803337.jpg",
+				"bannerUrl": "",
+				"categoryChildren": []
+			}
+		]
+	}
+]

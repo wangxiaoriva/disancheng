@@ -1,0 +1,53 @@
+[
+	{
+		"totalCount": 4,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "宝骏310 在线订购可获500元年终购车好礼",
+				"productImage": "http://image.3tcc.cn/imagesService/6805qs2s20161222210515235680.jpg",
+				"productPrice": 36800,
+				"productusePoint": 0,
+				"productId": 825,
+				"productMobilePrice": 36800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 59
+			}, {
+				"productName": "宝骏630 可靠的品质 可见的承诺 支持GMAC金融方案",
+				"productImage": "http://image.3tcc.cn/imagesService/567ljaow20161222204132122567.jpg",
+				"productPrice": 59800,
+				"productusePoint": 0,
+				"productId": 805,
+				"productMobilePrice": 59800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 44
+			}, {
+				"productName": "宝骏730",
+				"productImage": "http://image.3tcc.cn/imagesService/440palr320170117153612939440.jpg",
+				"productPrice": 60800,
+				"productusePoint": 0,
+				"productId": 1983,
+				"productMobilePrice": 60800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 8
+			}, {
+				"productName": "宝骏560",
+				"productImage": "http://image.3tcc.cn/imagesService/063zj81c20170117134554736063.jpg",
+				"productPrice": 78800,
+				"productusePoint": 0,
+				"productId": 1953,
+				"productMobilePrice": 69800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 8
+			}
+		]
+	}
+]

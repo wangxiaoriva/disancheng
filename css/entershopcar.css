@@ -1,0 +1,127 @@
+body {
+  background: #f7f7f7;
+}
+header {
+  height: 1rem;
+  background: #FFFFFF;
+  width: 100%;
+  padding: 0.32rem 0.29rem 0.27rem;
+  box-sizing: border-box;
+}
+header .heleft {
+  float: left;
+}
+header .heleft a {
+  width: 0.55rem;
+  height: 100%;
+  display: block;
+}
+header .heright {
+  float: right;
+  width: 1.12rem;
+  height: 100%;
+}
+header .heright .hetu:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+header .heright .hetu .p1 {
+  float: left;
+  width: 0.57rem;
+  height: 100%;
+  background: #D9242B;
+}
+header .heright .hetu .p2 {
+  float: left;
+  width: 0.55rem;
+  height: 100%;
+  background: #EA4A32;
+}
+footer {
+  width: 100%;
+  border-top: 1px solid #f1f1f1;
+  position: fixed;
+  bottom: 0;
+  background: #FFFFFF;
+}
+footer ul {
+  height: 0.7rem;
+  width: 100%;
+}
+footer ul:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+footer ul li {
+  float: left;
+  height: 100%;
+}
+footer ul li a {
+  text-align: center;
+}
+footer ul li:nth-child(1) {
+  width: 1.3rem;
+  border: 2px solid #f3f3f3;
+  box-sizing: border-box;
+  padding: 0.05rem 0;
+}
+footer ul li:nth-child(1) .tu {
+  text-align: center;
+  box-sizing: border-box;
+  width: 0.35rem;
+  height: 0.27rem;
+  margin-left: 0.45rem;
+  color: #808080;
+}
+footer ul li:nth-child(1) .tu .iconfont {
+  text-align: center;
+  font: 0.27rem / 0.27rem "microsoft yahei";
+}
+footer ul li:nth-child(1) p {
+  font-size: 0.24rem;
+  color: #808080;
+}
+footer ul li:nth-child(2) {
+  width: 1.28rem;
+  padding: 0.05rem 0;
+  box-sizing: border-box;
+}
+footer ul li:nth-child(2) .tu {
+  text-align: center;
+  box-sizing: border-box;
+  width: 0.35rem;
+  height: 0.27rem;
+  margin-left: 0.45rem;
+  color: #808080;
+}
+footer ul li:nth-child(2) .tu .iconfont {
+  text-align: center;
+  font: 0.27rem / 0.27rem "microsoft yahei";
+}
+footer ul li:nth-child(2) p {
+  font-size: 0.24rem;
+  color: #808080;
+}
+footer ul li:nth-child(3) {
+  width: 1.91rem;
+  background: #3cb1f7;
+}
+footer ul li:nth-child(3) a p {
+  color: #FFFFFF;
+  font: 0.24rem / 0.7rem "microsoft yahei";
+}
+footer ul li:nth-child(4) {
+  width: 1.91rem;
+  background: #5ec1fc;
+}
+footer ul li:nth-child(4) a p {
+  color: #FFFFFF;
+  font: 0.24rem / 0.7rem "microsoft yahei";
+}
+.main .goodsbanner {
+  height: 6.42rem;
+  width: 100%;
+  background: #007AFF;
+}

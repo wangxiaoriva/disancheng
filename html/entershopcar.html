@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/ba.min.css" />
+		<link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_5tdzav0jyhz1tt9.css" />
+		<link rel="stylesheet" type="text/css" href="../css/entershopcar.css" />
+	</head>
+
+	<body ng-controller="main">
+		<header>
+			<div class="heleft">
+				<a href="../index.html">
+					<p class="iconfont icon-xiangzuojiantou"></p>
+				</a>
+			</div>
+			<div class="hecenter"></div>
+			<div class="heright">
+				<div class="hetu">
+					<p class="p1 iconfont icon-zhuanfa1"></p>
+					<p class="p2 iconfont icon-gengduo"></p>
+				</div>
+
+			</div>
+		</header>
+
+		<div class="main">
+			<div class="goodsbanner">
+
+			</div>
+		</div>
+		<footer>
+			<ul>
+				<li class="active">
+					<a href="javascript:;">
+						<div class="tu">
+							<div class="iconfont icon-dianpu17"></div>
+						</div>
+						<p>店铺</p>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<div class="tu">
+							<div class="iconfont icon-shoucang"></div>
+						</div>
+						<p>收藏</p>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<p>加入购物车</p>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<p>立即购买</p>
+					</a>
+				</li>
+		</footer>
+	</body>
+	<script src="../js/angular.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/angular-ui-router.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		var app = angular.module('myApp', ['ui.router']);
+		/*
+ 			主控制器,main
+ 		* */
+		app.controller('main', ["$scope", "$location", function($scope, $location) {
+			console.log('初始化main主控制器')
+
+		}])
+	</script>
+
+</html>

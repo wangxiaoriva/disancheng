@@ -1,0 +1,245 @@
+body {
+    background: #f7f7f7;
+}
+@baise: #ffffff;
+@heise: #000000;
+//头部
+.menuMy-header {
+    height: 3.15rem;
+    width: 100%;
+    background: #3cb1f7;
+    padding: 0.11rem 0.39rem 0 0.22rem;
+    box-sizing: border-box;
+    //头部-上
+    .he-top {
+        height: 1.04rem;
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        .iconfont {
+            width: 0.32rem;
+            float: left;
+            font: 0.32rem e('/') 1.04rem "microsoft yahei";
+            color: #FFFFFF;
+        }
+        .set {
+            float: left;
+        }
+        .message {
+            float: right;
+        }
+
+    }
+    //头部-中
+    .he-center {
+        height: 0.93rem;
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        .headicon {
+            width: 0.95rem;
+            height: 100%;
+            padding: 0 0.09rem 0.16rem;
+            box-sizing: border-box;
+            float: left;
+            .headiconimg {
+                width: 0.78rem;
+                height: 0.78rem;
+                border-radius: 50%;
+                border: 4px solid #a095b7;
+                box-sizing: border-box;
+                text-align: center;
+                /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cbe838+0,cce744+50,cbe73a+100 */
+                background: #cbe838;
+                /* Old browsers */
+                background: -moz-radial-gradient(center, ellipse cover, #cbe838 0%, #cce744 50%, #cbe73a 100%);
+                /* FF3.6-15 */
+                background: -webkit-radial-gradient(center, ellipse cover, #cbe838 0%,#cce744 50%,#cbe73a 100%);
+                /* Chrome10-25,Safari5.1-6 */
+                background: radial-gradient(ellipse at center, #cbe838 0%,#cce744 50%,#cbe73a 100%);
+                /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbe838', endColorstr='#cbe73a',GradientType=1 );
+                /* IE6-9 fallback on horizontal gradient */
+                .iconfont{
+                    font:0.5rem e('/') 0.78rem "microsoft yahei";
+                    color: @baise;
+                }
+            }
+        }
+        .headlogin {
+            float: left;
+            p {
+                font: 0.22rem e('/') 0.93rem "microsoft yahei";
+                color: @baise;
+                padding-left: 0.07rem;
+            }
+        }
+    }
+    //头部-下
+    .he-bottom {
+        ul {
+            display: flex;
+            li {
+                flex: 1;
+                a {
+                    text-align: center;
+                    color: @baise;
+                    div {
+                        height: 0.48rem;
+                        padding-top: 0.14rem;
+                        box-sizing: border-box;
+                        font: 0.32rem e('/') 0.48rem "microsoft yahei";
+                    }
+                    p {
+
+                        font: 0.18rem e('/') 0.45rem "microsoft yahei";
+
+                    }
+                }
+            }
+        }
+
+    }
+
+}
+//我的订单
+.myOrder {
+    height: 1.78rem;
+    width: 100%;
+    border-top: 1px solid #e8e8e9;
+    border-bottom: 2px solid #e8e8e9;
+    box-sizing: border-box;
+    margin-top: 0.15rem;
+    background: @baise;
+    padding-left: 0.22rem;
+    //我的订单标题
+    .myorder-title {
+        height: 0.66rem;
+        border-bottom: 1px solid #e8e8e9;
+        box-sizing: border-box;
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        .my-order {
+            font: 0.24rem e('/') 0.66rem "microsoft yahei";
+            float: left;
+        }
+        .check-order {
+            float: right;
+            font: 0.18rem e('/') 0.66rem "microsoft yahei";
+            color: #666;
+            .iconfont {
+                font: 0.18rem e('/') 0.66rem "microsoft yahei";
+            }
+        }
+    }
+    //我的订单内容
+    .myorder-main {
+        height: 1.06rem;
+        width: 100%;
+        ul {
+            display: flex;
+            width: 100%;
+            li {
+                flex: 1;
+
+                a {
+                    text-align: center;
+                    color: #656565;
+                    div {
+                        height: 0.56rem;
+                        padding-top: 0.25rem;
+                        box-sizing: border-box;
+                        font: 0.32rem e('/') 0.56rem "microsoft yahei";
+                    }
+                    p {
+
+                        font: 0.18rem e('/') 0.52rem "microsoft yahei";
+
+                    }
+                }
+            }
+        }
+    }
+
+}
+//主要内容
+.menuMy-main {
+    width: 100%;
+    border-top: 2px solid #e8e8e9;
+    box-sizing: border-box;
+    margin-top: 0.15rem;
+    background: @baise;
+    ul {
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        li {
+            width: 33.33%;
+            height: 1.53rem;
+            float: left;
+            border-right: 1px solid #f1f1f1;
+            border-bottom: 1px solid #f1f1f1;
+            box-sizing: border-box;
+            a {
+                text-align: center;
+                color: #656565;
+                div {
+                    height: 0.84rem;
+                    padding-top: 0.37rem;
+                    box-sizing: border-box;
+                    font-size: 0.48rem;
+                }
+                p {
+
+                    font: 0.24rem e('/') 0.7rem "microsoft yahei";
+
+                }
+            }
+        }
+        li:nth-child(1) {
+            .iconfont {
+                color: #ef4432;
+            }
+
+        }
+        li:nth-child(2) {
+            .iconfont {
+                color: #f9bf3b;
+            }
+
+        }
+        li:nth-child(3) {
+            .iconfont {
+                color: #f27547;
+            }
+
+        }
+        li:nth-child(4) {
+            .iconfont {
+                color: #78bbe8;
+            }
+
+        }
+        li:nth-child(5) {
+            .iconfont {
+                color: #ea4a32;
+            }
+
+        }
+        li:nth-child(6) {
+            .iconfont {
+                color: #9fddcf;
+            }
+
+        }
+    }
+}

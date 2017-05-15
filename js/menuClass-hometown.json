@@ -1,0 +1,168 @@
+[
+	{
+		"api_code": "0",
+		"api_data": [
+			{
+				"categoryId": 143,
+				"categoryName": "休闲零食",
+				"bannerImage": "http://image.3tcc.cn/imagesService/234kd83q20161222132455444234.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 146,
+						"categoryParent": 143,
+						"categoryParentName": "休闲零食",
+						"categoryName": "白糕",
+						"categoryImage": "http://image.3tcc.cn/imagesService/494h4drs20161219203626803494.jpg"
+					}, {
+						"categoryId": 147,
+						"categoryParent": 143,
+						"categoryParentName": "休闲零食",
+						"categoryName": "黄粑",
+						"categoryImage": "http://image.3tcc.cn/imagesService/31300ior20161222132218725313.jpg"
+					}, {
+						"categoryId": 149,
+						"categoryParent": 143,
+						"categoryParentName": "休闲零食",
+						"categoryName": "干果",
+						"categoryImage": "http://image.3tcc.cn/imagesService/966lr7n520161221095519473966.jpg"
+					}, {
+						"categoryId": 220,
+						"categoryParent": 143,
+						"categoryParentName": "休闲零食",
+						"categoryName": "糖类/小吃类/零食",
+						"categoryImage": "http://image.3tcc.cn/imagesService/1720io6b20170124163624224172.jpg"
+					}
+				]
+			}, {
+				"categoryId": 144,
+				"categoryName": "生鲜果蔬",
+				"bannerImage": "http://image.3tcc.cn/imagesService/621vty6o20161222132546202621.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 148,
+						"categoryParent": 144,
+						"categoryParentName": "生鲜果蔬",
+						"categoryName": "鲜果",
+						"categoryImage": "http://image.3tcc.cn/imagesService/166b8flj20161222134246459166.jpg"
+					}, {
+						"categoryId": 223,
+						"categoryParent": 144,
+						"categoryParentName": "生鲜果蔬",
+						"categoryName": "新鲜食用菌",
+						"categoryImage": "http://image.3tcc.cn/imagesService/713ykj0l20170208165934565713.jpg"
+					}
+				]
+			}, {
+				"categoryId": 145,
+				"categoryName": "美酒佳酿",
+				"bannerImage": "http://image.3tcc.cn/imagesService/442wnm5d20161222132609239442.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 150,
+						"categoryParent": 145,
+						"categoryParentName": "美酒佳酿",
+						"categoryName": "白 酒",
+						"categoryImage": "http://image.3tcc.cn/imagesService/612i86pu20161219203847226612.jpg"
+					}, {
+						"categoryId": 151,
+						"categoryParent": 145,
+						"categoryParentName": "美酒佳酿",
+						"categoryName": "红 酒",
+						"categoryImage": "http://image.3tcc.cn/imagesService/9563ijz320161221095720294956.jpg"
+					}
+				]
+			}, {
+				"categoryId": 164,
+				"categoryName": "肉类/腌腊制品",
+				"bannerImage": "http://image.3tcc.cn/imagesService/776aq6mf20161223183659206776.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 165,
+						"categoryParent": 164,
+						"categoryParentName": "肉类/腌腊制品",
+						"categoryName": "腌腊制品",
+						"categoryImage": "http://image.3tcc.cn/imagesService/498svbg020161223183722978498.jpg"
+					}, {
+						"categoryId": 166,
+						"categoryParent": 164,
+						"categoryParentName": "肉类/腌腊制品",
+						"categoryName": "豆干制品",
+						"categoryImage": "http://image.3tcc.cn/imagesService/671cq0nh20161223183859438671.jpg"
+					}, {
+						"categoryId": 221,
+						"categoryParent": 164,
+						"categoryParentName": "肉类/腌腊制品",
+						"categoryName": "酱类/泡菜/咸菜",
+						"categoryImage": "http://image.3tcc.cn/imagesService/1289plop20170206161930756128.jpg"
+					}, {
+						"categoryId": 222,
+						"categoryParent": 164,
+						"categoryParentName": "肉类/腌腊制品",
+						"categoryName": "蛋类/禽类",
+						"categoryImage": "http://image.3tcc.cn/imagesService/958iepy820170207141655737958.jpg"
+					}
+				]
+			}, {
+				"categoryId": 194,
+				"categoryName": "精选干货",
+				"bannerImage": "http://image.3tcc.cn/imagesService/370ulhvc20170111105726192370.jpg",
+				"bannerUrl": "",
+				"categoryChildren": [
+					{
+						"categoryId": 195,
+						"categoryParent": 194,
+						"categoryParentName": "精选干货",
+						"categoryName": "笋干玉兰片",
+						"categoryImage": "http://image.3tcc.cn/imagesService/98326fg620170111105806196983.jpg"
+					}, {
+						"categoryId": 196,
+						"categoryParent": 194,
+						"categoryParentName": "精选干货",
+						"categoryName": "木耳",
+						"categoryImage": "http://image.3tcc.cn/imagesService/710xetkl20170111112139558710.jpg"
+					}, {
+						"categoryId": 163,
+						"categoryParent": 194,
+						"categoryParentName": "精选干货",
+						"categoryName": "竹 荪",
+						"categoryImage": "http://image.3tcc.cn/imagesService/020f3l6p20161223183513954020.jpg"
+					}, {
+						"categoryId": 197,
+						"categoryParent": 194,
+						"categoryParentName": "精选干货",
+						"categoryName": "食用菌",
+						"categoryImage": "http://image.3tcc.cn/imagesService/562nf1t920170111112848463562.jpg"
+					}, {
+						"categoryId": 198,
+						"categoryParent": 194,
+						"categoryParentName": "精选干货",
+						"categoryName": "食用竹产品",
+						"categoryImage": "http://image.3tcc.cn/imagesService/097vat5w20170111113912222097.jpg"
+					}
+				]
+			}, {
+				"categoryId": 216,
+				"categoryName": "茶",
+				"bannerImage": "http://image.3tcc.cn/imagesService/663n0gw720170123145725832663.jpg",
+				"bannerUrl": "",
+				"categoryChildren": [
+					{
+						"categoryId": 217,
+						"categoryParent": 216,
+						"categoryParentName": "茶",
+						"categoryName": "花草茶",
+						"categoryImage": "http://image.3tcc.cn/imagesService/310k0uqx20170123145753861310.jpg"
+					}
+				]
+			}
+		]
+	}
+]

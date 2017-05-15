@@ -1,0 +1,24 @@
+[
+	{
+		"api_code": "0",
+		"api_data": [
+			{
+				"bannerImage": "http://image.3tcc.cn/imagesService/515f3n5520170328171448309515.jpg",
+				"bannerUrl": "",
+				"type": "searchresult"
+			}, {
+				"bannerImage": "http://image.3tcc.cn/imagesService/8361fd8m20170407153135872836.jpg",
+				"bannerUrl": "",
+				"type": "searchresult"
+			}, {
+				"bannerImage": "http://image.3tcc.cn/imagesService/931mjlzz20170411153138667931.jpg",
+				"bannerUrl": "",
+				"type": "car"
+			}, {
+				"bannerImage": "http://image.3tcc.cn/imagesService/7095vvxv20170411153124662709.jpg",
+				"bannerUrl": "",
+				"type": "house"
+			}
+		]
+	}
+]

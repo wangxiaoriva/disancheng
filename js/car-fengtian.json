@@ -1,0 +1,64 @@
+[
+	{
+		"totalCount": 5,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "丰田 汉兰达2015款 优惠价格2017年3月31日前有效",
+				"productImage": "http://image.3tcc.cn/imagesService/448q4o0n20170213161100946448.jpg",
+				"productPrice": 239800,
+				"productusePoint": 0,
+				"productId": 2376,
+				"productMobilePrice": 239800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 22
+			}, {
+				"productName": "丰田 逸致 优惠价格2017年3月31日前有效",
+				"productImage": "http://image.3tcc.cn/imagesService/340j5elb20170213162544351340.jpg",
+				"productPrice": 124800,
+				"productusePoint": 0,
+				"productId": 2384,
+				"productMobilePrice": 124800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 18
+			}, {
+				"productName": "丰田凯美瑞 2016款 优惠价格2017年3月31日前有效",
+				"productImage": "http://image.3tcc.cn/imagesService/65926j0u20170213152239590659.jpg",
+				"productPrice": 166800,
+				"productusePoint": 0,
+				"productId": 2373,
+				"productMobilePrice": 166800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 13
+			}, {
+				"productName": "丰田雷凌 优惠价格2017年3月31日前有效",
+				"productImage": "http://image.3tcc.cn/imagesService/524y8msi20170213143534748524.jpg",
+				"productPrice": 102800,
+				"productusePoint": 0,
+				"productId": 2369,
+				"productMobilePrice": 102800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 9
+			}, {
+				"productName": "丰田YARISL致炫 2016改款 优惠价格2017年3月31日前有效",
+				"productImage": "http://image.3tcc.cn/imagesService/227sn1qr20170213141736446227.jpg",
+				"productPrice": 82800,
+				"productusePoint": 0,
+				"productId": 2366,
+				"productMobilePrice": 79800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 7
+			}
+		]
+	}
+]

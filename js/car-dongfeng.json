@@ -1,0 +1,53 @@
+[
+	{
+		"totalCount": 4,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "东风日产轩逸送3000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/300n1xfk20170104092851244300.jpg",
+				"productPrice": 105000,
+				"productusePoint": 0,
+				"productId": 1280,
+				"productMobilePrice": 85800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 39
+			}, {
+				"productName": "东风日产奇骏送4000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/744eo7ha20170104154352598744.jpg",
+				"productPrice": 163800,
+				"productusePoint": 0,
+				"productId": 1299,
+				"productMobilePrice": 163800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 35
+			}, {
+				"productName": "东风日产逍客送3000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/334cvoh720170104145901687334.jpg",
+				"productPrice": 130800,
+				"productusePoint": 0,
+				"productId": 1292,
+				"productMobilePrice": 130800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 29
+			}, {
+				"productName": "东风日产蓝鸟送3000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/0215h57d20170104112545772021.jpg",
+				"productPrice": 96900,
+				"productusePoint": 0,
+				"productId": 1286,
+				"productMobilePrice": 96900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 16
+			}
+		]
+	}
+]

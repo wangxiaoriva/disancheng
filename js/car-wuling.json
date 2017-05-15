@@ -1,0 +1,64 @@
+[
+	{
+		"totalCount": 5,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "五菱宏光S",
+				"productImage": "http://image.3tcc.cn/imagesService/144jbdg320161222202513171144.jpg",
+				"productPrice": 41800,
+				"productusePoint": 0,
+				"productId": 765,
+				"productMobilePrice": 41800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 28
+			}, {
+				"productName": "五菱宏光S1",
+				"productImage": "http://image.3tcc.cn/imagesService/119boese20161222204536256119.jpg",
+				"productPrice": 58800,
+				"productusePoint": 0,
+				"productId": 776,
+				"productMobilePrice": 58800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 22
+			}, {
+				"productName": "五菱荣光V",
+				"productImage": "http://image.3tcc.cn/imagesService/592976xl20161222210712986592.jpg",
+				"productPrice": 37800,
+				"productusePoint": 0,
+				"productId": 841,
+				"productMobilePrice": 37800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 21
+			}, {
+				"productName": "新五菱之光",
+				"productImage": "http://image.3tcc.cn/imagesService/226q3mmh20161222212021462226.jpg",
+				"productPrice": 30800,
+				"productusePoint": 0,
+				"productId": 871,
+				"productMobilePrice": 30800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 18
+			}, {
+				"productName": "五菱征程 实用型商务车",
+				"productImage": "http://image.3tcc.cn/imagesService/337h41z120161222213530117337.jpg",
+				"productPrice": 66200,
+				"productusePoint": 0,
+				"productId": 793,
+				"productMobilePrice": 66200,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 7
+			}
+		]
+	}
+]

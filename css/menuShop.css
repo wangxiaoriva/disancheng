@@ -1,0 +1,254 @@
+.shop-header {
+  height: 0.99rem;
+  background: #FFFFFF;
+  width: 100%;
+  text-align: center;
+  font: 0.3rem / 0.69rem "microsoft yahei";
+  padding: 0.3rem 0.3rem 0 0;
+  box-sizing: border-box;
+}
+.shop-header:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-header span {
+  float: right;
+  font: 0.2rem / 0.69rem "microsoft yahei";
+}
+.shop-main ul {
+  border-top: 1px solid #cfcfd1;
+  border-bottom: 1px solid #cfcfd1;
+  padding: 0 0 0 0.25rem;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  margin-bottom: 0.15rem;
+}
+.shop-main ul li a .shop-name {
+  height: 0.58rem;
+}
+.shop-main ul li a .shop-name:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-main ul li a .shop-name .gouxuan-tu {
+  width: 0.37rem;
+  height: 100%;
+  float: left;
+  text-align: center;
+  padding-top: 0.15rem;
+  box-sizing: border-box;
+}
+.shop-main ul li a .shop-name .gouxuan-tu .gouxuan {
+  width: 0.26rem;
+  height: 0.26rem;
+  border-radius: 50%;
+  border: 1px solid #999999;
+}
+.shop-main ul li a .shop-name .gouxuan-tu .gouxuan p {
+  font: 0.2rem / 0.26rem "microsoft yahei";
+  color: #53bbf8;
+  display: none;
+}
+.shop-main ul li a .shop-name .gouxuan-tu .gouxuan.active {
+  border: 1px solid #53bbf8;
+}
+.shop-main ul li a .shop-name .gouxuan-tu .gouxuan.active p {
+  display: block;
+}
+.shop-main ul li a .shop-name .txt {
+  float: left;
+  padding: 0 0.15rem;
+  font: 0.18rem / 0.58rem "microsoft yahei";
+  color: #999999;
+}
+.shop-main ul li a .shop-info {
+  border-top: 1px solid #e3e3e5;
+  height: 1.64rem;
+  width: 100%;
+  display: flex;
+}
+.shop-main ul li a .shop-info .gouxuan-tu {
+  width: 0.37rem;
+  height: 100%;
+  float: left;
+  text-align: center;
+  padding-top: 0.68rem;
+  box-sizing: border-box;
+}
+.shop-main ul li a .shop-info .gouxuan-tu .gouxuan {
+  width: 0.26rem;
+  height: 0.26rem;
+  border-radius: 50%;
+  border: 1px solid #999999;
+}
+.shop-main ul li a .shop-info .gouxuan-tu .gouxuan p {
+  font: 0.2rem / 0.26rem "microsoft yahei";
+  color: #53bbf8;
+  display: none;
+}
+.shop-main ul li a .shop-info .gouxuan-tu .gouxuan.active {
+  border: 1px solid #53bbf8;
+}
+.shop-main ul li a .shop-info .gouxuan-tu .gouxuan.active p {
+  display: block;
+}
+.shop-main ul li a .shop-info .info-main {
+  flex: 1;
+  display: flex;
+  padding: 0.18rem 0 0.23rem;
+  box-sizing: border-box;
+}
+.shop-main ul li a .shop-info .info-main:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-main ul li a .shop-info .info-main .info-main-img {
+  width: 1.42rem;
+  height: 100%;
+  padding: 0 0.09rem;
+  box-sizing: border-box;
+  float: left;
+}
+.shop-main ul li a .shop-info .info-main .info-main-img .boximg {
+  width: 100%;
+  height: 100%;
+}
+.shop-main ul li a .shop-info .info-main .info-main-img .boximg img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt {
+  float: left;
+  height: 100%;
+  flex: 1;
+  padding-left: 0.05rem;
+  box-sizing: border-box;
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt .p1 {
+  width: 3.01rem;
+  font: 0.2rem / 0.34rem "microsoft yahei";
+  color: #000000;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt .p2 {
+  width: 100%;
+  font: 0.2rem / 0.34rem "microsoft yahei";
+  color: #949494;
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt .p3 {
+  width: 0.9rem;
+  height: 0.2rem;
+  border: 1px solid #ff9696;
+  border-radius: 0.04rem;
+  font: 0.12rem / 0.2rem "microsoft yahei";
+  color: #ff2c2c;
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt .p3 span {
+  width: 0.2rem;
+  height: 100%;
+  display: inline-block;
+  background: #ff0000;
+  text-align: center;
+  color: #FFFFFF;
+  font: 0.12rem / 0.2rem "microsoft yahei";
+}
+.shop-main ul li a .shop-info .info-main .info-main-txt .p4 {
+  width: 100%;
+  font: 0.14rem / 0.24rem "microsoft yahei";
+  color: #ff380a;
+}
+.shop-main ul li a .shop-info .info-num {
+  width: 0.37rem;
+  height: 100%;
+  float: right;
+  padding-top: 0.32rem;
+  box-sizing: border-box;
+  color: #000000;
+}
+.shop-payment {
+  position: fixed;
+  bottom: 0.77rem;
+  height: 0.76rem;
+  width: 100%;
+  background: #FFFFFF;
+  padding-left: 0.25rem;
+  box-sizing: border-box;
+}
+.shop-payment ul:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-payment ul li {
+  width: 50%;
+}
+.shop-payment ul li.payment-fl {
+  float: left;
+}
+.shop-payment ul li.payment-fl:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-payment ul li.payment-fl .payment-fl-tu {
+  width: 0.61rem;
+  height: 0.76rem;
+  float: left;
+  text-align: center;
+  padding-top: 0.24rem;
+  box-sizing: border-box;
+}
+.shop-payment ul li.payment-fl .payment-fl-tu .gouxuan {
+  width: 0.26rem;
+  height: 0.26rem;
+  border-radius: 50%;
+  border: 1px solid #999999;
+}
+.shop-payment ul li.payment-fl .payment-fl-tu .gouxuan p {
+  font: 0.2rem / 0.26rem "microsoft yahei";
+  color: #53bbf8;
+  display: none;
+}
+.shop-payment ul li.payment-fl .payment-fl-tu .gouxuan.active {
+  border: 1px solid #53bbf8;
+}
+.shop-payment ul li.payment-fl .payment-fl-tu .gouxuan.active p {
+  display: block;
+}
+.shop-payment ul li.payment-fl .payment-fl-txt {
+  float: left;
+  padding: 0.2rem;
+  height: 0.76rem;
+}
+.shop-payment ul li.payment-fr {
+  float: right;
+}
+.shop-payment ul li.payment-fr:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.shop-payment ul li.payment-fr .payment-fr-price {
+  padding: 0 0.2rem;
+  font: 0.2rem / 0.76rem "microsoft yahei";
+  float: right;
+}
+.shop-payment ul li.payment-fr .payment-fr-price p {
+  color: #d9242b;
+}
+.shop-payment ul li.payment-fr .payment-fr-txt {
+  float: right;
+  display: block;
+  width: 1.73rem;
+  height: 0.76rem;
+  text-align: center;
+  font: 0.22rem / 0.76rem "microsoft yahei";
+  color: #FFFFFF;
+  background: #47bff9;
+}

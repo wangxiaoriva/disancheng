@@ -1,0 +1,64 @@
+[
+	{
+		"totalCount": 5,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "汽车高档香水座",
+				"productImage": "http://image.3tcc.cn/imagesService/413zu7pi20161222144100196413.jpg",
+				"productPrice": 38,
+				"productusePoint": 0,
+				"productId": 742,
+				"productMobilePrice": 38,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 25
+			}, {
+				"productName": "情侣娃香水座",
+				"productImage": "http://image.3tcc.cn/imagesService/603dwidg20170105155032577603.jpg",
+				"productPrice": 30,
+				"productusePoint": 0,
+				"productId": 1381,
+				"productMobilePrice": 30,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 17
+			}, {
+				"productName": "龙猫固体香膏香薰饰品",
+				"productImage": "http://image.3tcc.cn/imagesService/07277ytf20161222142808900072.jpg",
+				"productPrice": 38,
+				"productusePoint": 0,
+				"productId": 738,
+				"productMobilePrice": 38,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 14
+			}, {
+				"productName": "靓丽女孩手喷香水 宜宾县；宜宾城区；江北；南岸购买100元以上包送 订单300元以上包运费 其它地区运费自理 支持10件起算批发价 批发价=网上价格打6折",
+				"productImage": "http://image.3tcc.cn/imagesService/652lsitc20170216105425490652.jpg",
+				"productPrice": 20,
+				"productusePoint": 0,
+				"productId": 2411,
+				"productMobilePrice": 20,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 10
+			}, {
+				"productName": "车载香水 洋光香水座",
+				"productImage": "http://image.3tcc.cn/imagesService/56457yfp20170330134258710564.jpg",
+				"productPrice": 30,
+				"productusePoint": 0,
+				"productId": 2692,
+				"productMobilePrice": 30,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 0
+			}
+		]
+	}
+]

@@ -1,0 +1,265 @@
+<div class="header">
+	<!--头部文本框-->
+	<div class="he-input">
+		<div class="he-input-left">
+			<a href="javascript:;">宜宾<span class="iconfont icon-caret"></span></a>
+		</div>
+		<div class="he-input-center">
+			<span class="inputSearch iconfont icon-sousuo"></span>
+			<input type="search" placeholder="请输入关键字" />
+			<span class="inputSaoyisao iconfont icon-scan"></span>
+		</div>
+		<div class="he-input-right">
+			<a href="javascript:;" class="inputMessage iconfont icon-xiaoxi13"></a>
+		</div>
+	</div>
+	<!--头部轮播图-->
+	<div class="swiper-container banner">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide" ng-repeat="item in imgList">
+				<img ng-src="{{item}}" />
+			</div>
+		</div>
+		<div class="swiper-pagination"></div>
+	</div>
+
+</div>
+<!--选择区域-->
+<div class="select">
+	<ul>
+		<li ng-repeat="item in qichecheng">
+			<a href="javascript:;">
+				<div class="qiche-tu ">
+					<p class="{{item.iconname}}"></p>
+				</div>
+				<div class="qiche-txt">{{item.name}}</div>
+			</a>
+		</li>
+	</ul>
+</div>
+<!--主题内容-->
+<div class="main">
+	<!--热卖中-->
+	<div class="hotSale">
+		<a href="javascript:;" class="hot-ing">
+			<div class="hot-img">
+				<img src="img/remaiin.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+		<div class="hot-products">
+			<ul>
+				<li ng-repeat="hot in hotList">
+					<a href="html/entershopcar.html">
+						<div class="hot-products-name">
+							{{hot.productName}}
+						</div>
+						<div class="hot-products-info">
+							<div class="hot-products-price">
+								¥{{hot.productPrice}}
+							</div>
+							<div class="hot-products-img">
+								<img src="{{hot.productImage}}" />
+							</div>
+						</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<!--发现好货-->
+	<div class="found-goods">
+		<img src="http://image.3tcc.cn/imagesService/318um7cp20170411153155229318.jpg" />
+	</div>
+	<!--新品推荐-->
+	<div class="new-products">
+		<a class="recommed">
+			<div class="hot-img">
+				<img src="img/xinpin.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+		<div class="recommed-products">
+			<ul>
+				<li ng-repeat="recnew in newsList">
+					<a href="javascript:;">
+						<div class="recommed-products-img">
+							<img ng-src="{{recnew.productImage}}" />
+						</div>
+						<div class="recommed-products-info">
+							<div class="recommed-products-name">
+								{{recnew.productName}}
+							</div>
+							<div class="recommed-products-price">
+								¥{{recnew.productPrice}}
+							</div>
+						</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<!--城中村-->
+	<div class="villageincity">
+		<!--城中村-更多-->
+		<a class="village">
+			<div class="hot-img">
+				<img src="img/chengzhongcun.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+		<!--城中村-导航图-->
+		<div class="village-banner">
+			<img src="{{randomImg.adImage}}" />
+		</div>
+		<!--城中村-产品-->
+		<div class="village-products">
+			<ul>
+				<li ng-repeat="hometown in hometownList">
+					<a href="javascript:;">
+						<div class="village-products-img">
+							<img ng-src="{{hometown.productImage}}" />
+						</div>
+						<div class="village-products-info">
+							<div class="village-products-name">
+								{{hometown.productName}}
+							</div>
+							<div class="village-products-price">
+								¥{{hometown.productPrice}}
+							</div>
+						</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<!--家居馆-->
+	<div class="house gengduo">
+		<!--家居馆-更多-->
+		<a class="housegraden ">
+			<div class="hot-img">
+				<img src="img/jiajuguan.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+
+		<!--家居馆-导航图-->
+		<div class="house-banner">
+			<img src="http://image.3tcc.cn/imagesService/574dle9220170411165544383574.jpg" />
+		</div>
+		<!--家居馆-产品-->
+		<div class="house-products">
+			<ul>
+				<li ng-repeat="house in houseList">
+					<a href="javascript:;">
+						<div class="house-products-img">
+							<img ng-src="{{house.productImage}}" />
+						</div>
+						<div class="house-products-info">
+							<div class="house-products-name">
+								{{house.productName}}
+							</div>
+							<div class="house-products-price">
+								¥{{house.productPrice}}
+							</div>
+						</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<!--汽车馆-->
+	<div class="car">
+		<!--汽车馆-更多-->
+		<a class="cargraden">
+			<div class="hot-img">
+				<img src="img/qicheguan.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+
+		<!--汽车馆-导航图-->
+		<div class="car-banner">
+			<img src="http://image.3tcc.cn/imagesService/8464ai3h20170411165555131846.jpg" />
+		</div>
+		<!--汽车-产品-->
+		<div class="car-products">
+			<ul>
+				<li ng-repeat="car in carList">
+					<a href="javascript:;">
+						<div class="car-products-img">
+
+							<img src="{{car.productImage}}" />
+						</div>
+						<div class="car-products-info">
+							<div class="car-products-name">
+								{{car.productName}}
+							</div>
+							<div class="car-products-price">
+								¥{{car.productPrice}}
+							</div>
+						</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<!--积分商城-->
+	<div class="integral">
+		<!--积分商城--更多-->
+		<a class="integralgraden">
+			<div class="hot-img">
+				<img src="img/jifen.png" />
+			</div>
+			<div class="hot-more">更多<span class="iconfont icon-xiangyoujiantou"></span></div>
+		</a>
+		<!--积分商城--产品-->
+		<div class="integral-products">
+			<ul>
+				<li class="integral-products-fl">
+					<a href="javascript:;">
+						<div class="integral-products-img">
+
+							<img src="http://image.3tcc.cn/imagesService/5619uyq820161220004352918561.jpg" />
+						</div>
+						<div class="integral-products-info">
+							<div class="integral-products-name">
+								汽车挂件 饰品高档玉 保平安符车内挂饰葫芦 车上车载摆件
+							</div>
+							<div class="integral-products-price">
+								<p>¥158</p>
+								<p class="jifen">+80积分</p>
+							</div>
+						</div>
+					</a>
+				</li>
+				<li class="integral-products-fr">
+					<ul class="remove-firstli">
+						<li ng-repeat="point in pointList">
+							<a href="javascript:;">
+								<div class="integral-products-img">
+
+									<img src="{{point.productImage}}" />
+								</div>
+								<div class="integral-products-info">
+									<div class="integral-products-name">
+										{{point.productName}}
+									</div>
+									<div class="integral-products-price">
+										<p>¥{{point.productPrice}}<span class="jifen">+{{point.productusePoint}}积分</span></p>
+
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

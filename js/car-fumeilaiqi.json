@@ -1,0 +1,31 @@
+[
+	{
+		"totalCount": 2,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "福美来汽车",
+				"productImage": "http://image.3tcc.cn/imagesService/13283qky20161230095927647132.jpg",
+				"productPrice": 73800,
+				"productusePoint": 0,
+				"productId": 1092,
+				"productMobilePrice": 73800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 2,
+				"productHits": 70
+			}, {
+				"productName": "福美来七座汽车",
+				"productImage": "http://image.3tcc.cn/imagesService/3067lhh820161230111541193306.jpg",
+				"productPrice": 95900,
+				"productusePoint": 0,
+				"productId": 1098,
+				"productMobilePrice": 95900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 52
+			}
+		]
+	}
+]

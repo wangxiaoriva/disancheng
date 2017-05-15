@@ -1,0 +1,42 @@
+[
+	{
+		"totalCount": 3,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "毛绒方向盘套",
+				"productImage": "http://image.3tcc.cn/imagesService/555kp4d720170105154515922555.jpg",
+				"productPrice": 30,
+				"productusePoint": 0,
+				"productId": 1379,
+				"productMobilePrice": 30,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 7
+			}, {
+				"productName": "磨砂方向盘套",
+				"productImage": "http://image.3tcc.cn/imagesService/57761kd820170105154744637577.jpg",
+				"productPrice": 100,
+				"productusePoint": 0,
+				"productId": 1380,
+				"productMobilePrice": 100,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 6
+			}, {
+				"productName": "真皮方向套",
+				"productImage": "http://image.3tcc.cn/imagesService/4063903f20170103091356677406.jpg",
+				"productPrice": 128,
+				"productusePoint": 0,
+				"productId": 1180,
+				"productMobilePrice": 128,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 6
+			}
+		]
+	}
+]

@@ -1,0 +1,44 @@
+<!--加载不同的页面内容-->
+<div ui-view></div>
+<!--底部-->
+<footer>
+	<nav>
+		<ul class="qihuan">
+			<li  class="active">
+				<a href="javascript:;" ng-click="goPage('/home')">
+					<div class="tu">
+						<div class="tu-home"></div>
+					</div>
+					<p>首页</p>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;" ng-click="goPage('/menuClass')">
+					<div class="tu">
+						<div class="tu-menuClass"></div>
+					</div>
+					<p>分类</p>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;" ng-click="goPage('/menuShop')">
+					<div class="tu">
+						<div class="tu-menuShop">
+
+						</div>
+					</div>
+					<p>购物车</p>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;" ng-click="goPage('/menuMy')">
+					<div class="tu">
+						<div class="tu-menuMy"></div>
+					</div>
+					<p>我的</p>
+				</a>
+			</li>
+
+		</ul>
+	</nav>
+</footer>

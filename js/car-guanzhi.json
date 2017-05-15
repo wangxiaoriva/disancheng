@@ -1,0 +1,53 @@
+[
+	{
+		"totalCount": 4,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "观致3两厢",
+				"productImage": "http://image.3tcc.cn/imagesService/725hvr2h20170105105749104725.jpg",
+				"productPrice": 99000,
+				"productusePoint": 0,
+				"productId": 1343,
+				"productMobilePrice": 99000,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 13
+			}, {
+				"productName": "观致3三厢",
+				"productImage": "http://image.3tcc.cn/imagesService/9916zmmh20170105104928331991.jpg",
+				"productPrice": 92800,
+				"productusePoint": 0,
+				"productId": 1337,
+				"productMobilePrice": 92800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 12
+			}, {
+				"productName": "观致3都市SUV",
+				"productImage": "http://image.3tcc.cn/imagesService/925bjacs20170105102530526925.jpg",
+				"productPrice": 131500,
+				"productusePoint": 0,
+				"productId": 1329,
+				"productMobilePrice": 131500,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 9
+			}, {
+				"productName": "观致5SUV其他活动可到店咨询",
+				"productImage": "http://image.3tcc.cn/imagesService/247wtqph20170105103338109247.jpg",
+				"productPrice": 142900,
+				"productusePoint": 0,
+				"productId": 1333,
+				"productMobilePrice": 142900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 6
+			}
+		]
+	}
+]

@@ -1,0 +1,252 @@
+body{
+    background: #f7f7f7;
+}
+header {
+    background: #FFFFFF;
+    width: 100%;
+    .hetop {
+        height: 0.99rem;
+        border-bottom: 1px solid #cfcfd1;
+        padding: 0.5rem 0.26rem 0.21rem 0.26rem;
+        box-sizing: border-box;
+        display: flex;
+        
+        &:after{
+            content: "";
+            display: block;
+            clear: both;
+        }
+        p:nth-child(1){
+            float: left;
+            width: 0.22rem;
+            height: 100%;
+            font-size: 0.28rem;
+            color: #666666;
+        }
+        p:nth-child(2){
+            float: left;
+            flex:1;
+            height: 100%;
+            text-align: center;
+            font-size: 0.28rem;
+            color: #000000;
+        }
+    }
+    .hebottom {
+        height: 1.03rem;
+        border-bottom: 1px solid #cfcfd1;
+        background: url(../img/dizhibg.png) no-repeat;
+        box-sizing: border-box;
+        background-position-y:1.03-0.18rem;
+        p{
+            font:0.22rem e('/') 1.02rem "microsoft yahei";
+            text-align: center;
+            color: #000000;
+        }
+    }
+}
+
+footer{
+    height: 0.78rem;
+    background: #FFFFFF;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding:0.11rem 0.15rem;
+    box-sizing: border-box;
+    .payment{
+        position: relative;
+        p{
+            font:0.22rem e('/') 0.56rem "microsoft yahei";
+            text-align: center;
+            span{
+                color: #ff4217;
+            }
+        }
+        a{
+            display: block;
+            width: 1.56rem;
+            height: 0.56rem;
+            background: #3cb1f7;
+            color: #FFFFFF;
+            position: absolute;
+            right: 0;
+            top:0;
+            text-align: center;
+            font:0.24rem e('/') 0.56rem "microsoft yahei";
+        }
+    }
+}
+//内容区
+.ordermain{
+    margin-top: 0.15rem;
+    ul {
+        border-top: 1px solid #cfcfd1;
+        border-bottom: 1px solid #cfcfd1;
+        padding: 0 0 0 0.25rem;
+        box-sizing: border-box;
+        background: #FFFFFF;
+        margin-bottom: 0.15rem;
+        li {
+
+            a {
+
+                .shop-name {
+                    height: 0.58rem;
+                    &:after {
+                        display: block;
+                        clear: both;
+                        content: "";
+                    }
+                    .gouxuan-tu {
+                        width: 0.38rem;
+                        height: 100%;
+                        float: left;
+                        text-align: center;
+                        padding-top: 0.15rem;
+                        box-sizing: border-box;
+                        .gouxuan {
+                            width: 0.38rem;
+                            height: 0.38rem;
+                            border-radius: 0.04rem;
+                            border: 1px solid #999999;
+                            img{
+                              height: auto;
+                              width: 100%;
+                              display: block;  
+                            }
+
+                            &.active {
+
+                                border: 1px solid #53bbf8;
+                                p {
+                                    display: block;
+                                }
+                            }
+
+                        }
+                    }
+                    .txt {
+                        float: left;
+                        padding: 0 0.18rem;
+                        font: 0.18rem e('/') 0.58rem "microsoft yahei";
+                        color: #999999;
+                    }
+                }
+                .shop-info {
+                    border-top: 1px solid #e3e3e5;
+                    height: 1.64rem;
+                    width: 100%;
+                    display: flex;
+                    .gouxuan-tu {
+                        width: 0.37rem;
+                        height: 100%;
+                        float: left;
+                        text-align: center;
+                        padding-top: 0.68rem;
+                        box-sizing: border-box;
+                        .gouxuan {
+                            width: 0.26rem;
+                            height: 0.26rem;
+                            border-radius: 50%;
+                            border: 1px solid #999999;
+                            p {
+                                font: 0.2rem e('/') 0.26rem "microsoft yahei";
+                                color: #53bbf8;
+                                display: none;
+                            }
+                            &.active {
+
+                                border: 1px solid #53bbf8;
+                                p {
+                                    display: block;
+                                }
+                            }
+
+                        }
+                    }
+                    .info-main {
+                        flex: 1;
+                        display: flex;
+                        padding: 0.18rem 0 0.23rem;
+                        box-sizing: border-box;
+                        &:after {
+                            display: block;
+                            clear: both;
+                            content: "";
+                        }
+                        .info-main-img {
+                            width: 1.42rem;
+                            height: 100%;
+                            padding: 0 0.09rem;
+                            box-sizing: border-box;
+                            float: left;
+                            .boximg {
+                                width: 100%;
+                                height: 100%;
+                                img {
+                                    width: 100%;
+                                    height: auto;
+                                    display: block;
+                                }
+                            }
+                        }
+                        .info-main-txt {
+                            float: left;
+                            height: 100%;
+                            flex: 1;
+                            padding-left: 0.05rem;
+                            box-sizing: border-box;
+                            .p1 {
+                                width: 3.01rem;
+                                font: 0.2rem e('/') 0.34rem "microsoft yahei";
+                                color: #000000;
+                                white-space: nowrap;
+                                overflow: hidden;
+                                text-overflow: ellipsis;
+                            }
+                            .p2 {
+
+                                width: 100%;
+                                font: 0.2rem e('/') 0.34rem "microsoft yahei";
+                                color: #949494;
+                            }
+                            .p3 {
+
+                                width: 0.9rem;
+                                height: 0.2rem;
+                                border: 1px solid #ff9696;
+                                border-radius: 0.04rem;
+                                font: 0.12rem e('/') 0.2rem "microsoft yahei";
+                                color: #ff2c2c;
+                                span {
+                                    width: 0.2rem;
+                                    height: 100%;
+                                    display: inline-block;
+                                    background: #ff0000;
+                                    text-align: center;
+                                    color: #FFFFFF;
+                                    font: 0.12rem e('/') 0.2rem "microsoft yahei";
+                                }
+                            }
+                            .p4 {
+
+                                width: 100%;
+                                font: 0.14rem e('/') 0.24rem "microsoft yahei";
+                                color: #ff380a;
+                            }
+                        }
+                    }
+                    .info-num {
+                        width: 0.37rem;
+                        height: 100%;
+                        float: right;
+                        padding-top: 0.32rem;
+                        box-sizing: border-box;
+                        color: #000000;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+[
+	{
+		"totalCount": 2,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "大众斯柯达明锐送4000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/819mdk0120170104161944639819.jpg",
+				"productPrice": 101900,
+				"productusePoint": 0,
+				"productId": 1319,
+				"productMobilePrice": 81800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 38
+			}, {
+				"productName": "大众斯柯达昕锐送4000大礼包",
+				"productImage": "http://image.3tcc.cn/imagesService/677osjzk20170104171136120677.jpg",
+				"productPrice": 78800,
+				"productusePoint": 0,
+				"productId": 1323,
+				"productMobilePrice": 73900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 38
+			}
+		]
+	}
+]

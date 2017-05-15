@@ -1,0 +1,64 @@
+[
+	{
+		"totalCount": 5,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "奔腾汽车B90",
+				"productImage": "http://image.3tcc.cn/imagesService/828h57e620170112170321728828.jpg",
+				"productPrice": 142800,
+				"productusePoint": 0,
+				"productId": 1779,
+				"productMobilePrice": 142800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 7
+			}, {
+				"productName": "奔腾汽车B70",
+				"productImage": "http://image.3tcc.cn/imagesService/3709wk9r20170112153009877370.jpg",
+				"productPrice": 96800,
+				"productusePoint": 0,
+				"productId": 1635,
+				"productMobilePrice": 96800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 3
+			}, {
+				"productName": "奔腾汽车B30",
+				"productImage": "http://image.3tcc.cn/imagesService/2054np0620170112145013636205.jpg",
+				"productPrice": 62800,
+				"productusePoint": 0,
+				"productId": 1611,
+				"productMobilePrice": 62800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 3
+			}, {
+				"productName": "奔腾汽车B50",
+				"productImage": "http://image.3tcc.cn/imagesService/332k2qz020170112114205571332.jpg",
+				"productPrice": 78800,
+				"productusePoint": 0,
+				"productId": 1571,
+				"productMobilePrice": 78800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 2
+			}, {
+				"productName": "奔腾汽车X80",
+				"productImage": "http://image.3tcc.cn/imagesService/279zd5h220170112103047697279.jpg",
+				"productPrice": 96800,
+				"productusePoint": 0,
+				"productId": 1564,
+				"productMobilePrice": 96800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 1
+			}
+		]
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"totalCount": 3,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "纳智捷优6",
+				"productImage": "http://image.3tcc.cn/imagesService/915uxqh020161230152242166915.jpg",
+				"productPrice": 111800,
+				"productusePoint": 0,
+				"productId": 1134,
+				"productMobilePrice": 111800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 78
+			}, {
+				"productName": "纳智捷5",
+				"productImage": "http://image.3tcc.cn/imagesService/377irlij20161230160930110377.jpg",
+				"productPrice": 83800,
+				"productusePoint": 0,
+				"productId": 1170,
+				"productMobilePrice": 83800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 57
+			}, {
+				"productName": "纳智捷锐3",
+				"productImage": "http://image.3tcc.cn/imagesService/222t1bnw20161230144701176222.jpg",
+				"productPrice": 59800,
+				"productusePoint": 0,
+				"productId": 1106,
+				"productMobilePrice": 59800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 1,
+				"productHits": 54
+			}
+		]
+	}
+]

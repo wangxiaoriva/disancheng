@@ -1,0 +1,31 @@
+[
+	{
+		"totalCount": 2,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "东南DX3",
+				"productImage": "http://image.3tcc.cn/imagesService/218xg8zq20161228100032100218.jpg",
+				"productPrice": 67900,
+				"productusePoint": 0,
+				"productId": 890,
+				"productMobilePrice": 67900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 91
+			}, {
+				"productName": "东南DX7",
+				"productImage": "http://image.3tcc.cn/imagesService/466y7e7n20161228152835894466.jpg",
+				"productPrice": 93900,
+				"productusePoint": 0,
+				"productId": 920,
+				"productMobilePrice": 93900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 37
+			}
+		]
+	}
+]

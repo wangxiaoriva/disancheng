@@ -1,0 +1,577 @@
+[
+	{
+		
+		"api_data": {
+			"index_seckill": {},
+			"index_hot": [
+				{
+					"productName": "皮革全包围座垫豪华版",
+					"productImage": "http://image.3tcc.cn/imagesService/315blvth20161222140024423315.jpg",
+					"productPrice": 198,
+					"productusePoint": 0,
+					"productId": 732,
+					"productMobilePrice": 198,
+					"productReviewCount": 0,
+					"productSaleCount": 108,
+					"productFavoriteCount": 0,
+					"productHits": 116
+				}, {
+					"productName": "五功能花洒",
+					"productImage": "http://image.3tcc.cn/imagesService/967jed7020170122094442112967.jpg",
+					"productPrice": 35.8,
+					"productusePoint": 0,
+					"productId": 2085,
+					"productMobilePrice": 35.8,
+					"productReviewCount": 0,
+					"productSaleCount": 106,
+					"productFavoriteCount": 1,
+					"productHits": 87
+				}, {
+					"productName": "绿叶香 竹叶黄粑",
+					"productImage": "http://image.3tcc.cn/imagesService/017cu3qo20161223184230852017.jpg",
+					"productPrice": 8,
+					"productusePoint": 0,
+					"productId": 885,
+					"productMobilePrice": 7,
+					"productReviewCount": 0,
+					"productSaleCount": 100,
+					"productFavoriteCount": 2,
+					"productHits": 309
+				}, {
+					"productName": "李庄白糕 白糕10个/盒",
+					"productImage": "http://image.3tcc.cn/imagesService/354he7em20161223184259543354.jpg",
+					"productPrice": 20,
+					"productusePoint": 0,
+					"productId": 886,
+					"productMobilePrice": 18,
+					"productReviewCount": 0,
+					"productSaleCount": 51,
+					"productFavoriteCount": 1,
+					"productHits": 383
+				}
+			],
+			"index_discount": [],
+			"index_news": [
+				{
+					"productName": "华艺 志高 炉灶 3D猛火燃气灶JZDT-T-2005",
+					"productImage": "http://image.3tcc.cn/imagesService/705cbtwi20170413115431399705.jpg",
+					"productPrice": 1733,
+					"productusePoint": 0,
+					"productId": 2933,
+					"productMobilePrice": 1733,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 3
+				}, {
+					"productName": "华艺 抽油烟机 欧式油烟机1520",
+					"productImage": "http://image.3tcc.cn/imagesService/308f7mwh20170413114440107308.jpg",
+					"productPrice": 2030,
+					"productusePoint": 0,
+					"productId": 2932,
+					"productMobilePrice": 2030,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 欧式油烟机1387",
+					"productImage": "http://image.3tcc.cn/imagesService/48636xmj20170413114003763486.jpg",
+					"productPrice": 2503,
+					"productusePoint": 0,
+					"productId": 2931,
+					"productMobilePrice": 2503,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 欧式油烟机1283H",
+					"productImage": "http://image.3tcc.cn/imagesService/9856cbkz20170413113252852985.jpg",
+					"productPrice": 2188,
+					"productusePoint": 0,
+					"productId": 2930,
+					"productMobilePrice": 2188,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 欧式油烟机1156",
+					"productImage": "http://image.3tcc.cn/imagesService/985xvieg20170413112826153985.jpg",
+					"productPrice": 1733,
+					"productusePoint": 0,
+					"productId": 2929,
+					"productMobilePrice": 1733,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 近吸油烟机1516A",
+					"productImage": "http://image.3tcc.cn/imagesService/087jsobe20170413111836820087.jpg",
+					"productPrice": 2161,
+					"productusePoint": 0,
+					"productId": 2928,
+					"productMobilePrice": 2161,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 近吸油烟机1351A",
+					"productImage": "http://image.3tcc.cn/imagesService/5829u9rs20170413110458784582.jpg",
+					"productPrice": 2538,
+					"productusePoint": 0,
+					"productId": 2927,
+					"productMobilePrice": 2538,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 近吸油烟机1256",
+					"productImage": "http://image.3tcc.cn/imagesService/893p5zb420170413104911727893.jpg",
+					"productPrice": 1041,
+					"productusePoint": 0,
+					"productId": 2926,
+					"productMobilePrice": 1041,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 近吸油烟机1120",
+					"productImage": "http://image.3tcc.cn/imagesService/748ixito20170413104035605748.jpg",
+					"productPrice": 2625,
+					"productusePoint": 0,
+					"productId": 2925,
+					"productMobilePrice": 2625,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "华艺 抽油烟机 近吸油烟机1035A",
+					"productImage": "http://image.3tcc.cn/imagesService/672gi14320170413101209454672.jpg",
+					"productPrice": 2538,
+					"productusePoint": 0,
+					"productId": 2924,
+					"productMobilePrice": 2538,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}
+			],
+			"index_hometown": [
+				{
+					"productName": "柿子饼 富平柿饼",
+					"productImage": "http://image.3tcc.cn/imagesService/018rork520170208162134112018.jpg",
+					"productPrice": 44.5,
+					"productusePoint": 0,
+					"productId": 2424,
+					"productMobilePrice": 44.5,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 2
+				}, {
+					"productName": "川味香肠 腊肉",
+					"productImage": "http://image.3tcc.cn/imagesService/744a2f4720170215171937726744.jpg",
+					"productPrice": 68,
+					"productusePoint": 0,
+					"productId": 2400,
+					"productMobilePrice": 68,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 7
+				}, {
+					"productName": "后腿腊肉 熏肉",
+					"productImage": "http://image.3tcc.cn/imagesService/676ynu9620170215170537968676.jpg",
+					"productPrice": 68,
+					"productusePoint": 0,
+					"productId": 2399,
+					"productMobilePrice": 68,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 5
+				}, {
+					"productName": "五花腊肉",
+					"productImage": "http://image.3tcc.cn/imagesService/8691bmha20170215165710290869.jpg",
+					"productPrice": 68,
+					"productusePoint": 0,
+					"productId": 2398,
+					"productMobilePrice": 68,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 5
+				}, {
+					"productName": "四美组合 橘子 春见 爱媛 中华红 塔罗科",
+					"productImage": "http://image.3tcc.cn/imagesService/685s4lf920170208165229518685.jpg",
+					"productPrice": 55,
+					"productusePoint": 0,
+					"productId": 2231,
+					"productMobilePrice": 55,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 11
+				}, {
+					"productName": "戎城坊泡菜 泡生姜 酸菜",
+					"productImage": "http://image.3tcc.cn/imagesService/813280ck20170208152913573813.jpg",
+					"productPrice": 8.9,
+					"productusePoint": 0,
+					"productId": 2223,
+					"productMobilePrice": 8.9,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 1
+				}, {
+					"productName": "新疆葡萄干",
+					"productImage": "http://image.3tcc.cn/imagesService/560krjgr20170206111120694560.jpg",
+					"productPrice": 18,
+					"productusePoint": 0,
+					"productId": 2198,
+					"productMobilePrice": 18,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 7
+				}, {
+					"productName": "奶味碧根果 山核桃",
+					"productImage": "http://image.3tcc.cn/imagesService/07142ru120170206105150966071.jpg",
+					"productPrice": 45,
+					"productusePoint": 0,
+					"productId": 2194,
+					"productMobilePrice": 45,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 1
+				}, {
+					"productName": "半边梅 梅子 梅干",
+					"productImage": "http://image.3tcc.cn/imagesService/913hnm8j20170206104758133913.jpg",
+					"productPrice": 22,
+					"productusePoint": 0,
+					"productId": 2193,
+					"productMobilePrice": 22,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "新疆兵团特产 枣泥核桃糕500克 营养滋补核桃糖 农一师阿拉尔美食",
+					"productImage": "http://image.3tcc.cn/imagesService/765n84hk20170123164900435765.jpg",
+					"productPrice": 58.8,
+					"productusePoint": 0,
+					"productId": 2168,
+					"productMobilePrice": 58.8,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 2
+				}, {
+					"productName": "新阿拉尔灰枣 新疆红枣 若羌枣 阿克苏灰枣 楼兰红枣子 特产500克",
+					"productImage": "http://image.3tcc.cn/imagesService/338xqojv20170123164256544338.jpg",
+					"productPrice": 19.8,
+					"productusePoint": 0,
+					"productId": 2165,
+					"productMobilePrice": 19.8,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 8
+				}, {
+					"productName": "农家新货 新疆特产特级红枸杞500克 枸杞子 红果天然无熏染不上色",
+					"productImage": "http://image.3tcc.cn/imagesService/15716e4u20170123161126673157.jpg",
+					"productPrice": 38.8,
+					"productusePoint": 0,
+					"productId": 2162,
+					"productMobilePrice": 38.8,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}
+			],
+			"index_house": [
+				{
+					"productName": "金正厨卫 抽油烟机 F08-BX",
+					"productImage": "http://image.3tcc.cn/imagesService/1873c8q020170410153116933187.jpg",
+					"productPrice": 2780,
+					"productusePoint": 0,
+					"productId": 2816,
+					"productMobilePrice": 2780,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "金正厨卫304不锈钢水槽8045双盆",
+					"productImage": "http://image.3tcc.cn/imagesService/0056qocp20170410151140357005.jpg",
+					"productPrice": 1880,
+					"productusePoint": 0,
+					"productId": 2814,
+					"productMobilePrice": 1880,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 3
+				}, {
+					"productName": "金正厨卫304不锈钢水槽双层阶820 450 220（mm)",
+					"productImage": "http://image.3tcc.cn/imagesService/726dhj2q20170410150312864726.jpg",
+					"productPrice": 2480,
+					"productusePoint": 0,
+					"productId": 2813,
+					"productMobilePrice": 2480,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "Royalstar荣事达 T017A油烟机式",
+					"productImage": "http://image.3tcc.cn/imagesService/500s9yad20170410143251955500.jpg",
+					"productPrice": 2480,
+					"productusePoint": 0,
+					"productId": 2812,
+					"productMobilePrice": 2480,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 1
+				}, {
+					"productName": "Royalstar荣事达 CXW-218-C020油烟机",
+					"productImage": "http://image.3tcc.cn/imagesService/726qpqzk20170410140047627726.jpg",
+					"productPrice": 2260,
+					"productusePoint": 0,
+					"productId": 2810,
+					"productMobilePrice": 2260,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "Royalstar荣事达 902M B97燃气灶双灶嵌入",
+					"productImage": "http://image.3tcc.cn/imagesService/542l9we020170410113528642542.jpg",
+					"productPrice": 688,
+					"productusePoint": 0,
+					"productId": 2806,
+					"productMobilePrice": 688,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "刺绣绣花蕾丝遮光素雅欧式 布艺窗帘",
+					"productImage": "http://image.3tcc.cn/imagesService/148gml6z20170209115325624148.jpg",
+					"productPrice": 76,
+					"productusePoint": 0,
+					"productId": 2294,
+					"productMobilePrice": 76,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "奥田集成灶",
+					"productImage": "http://image.3tcc.cn/imagesService/526ffhlw20170111092111711526.jpg",
+					"productPrice": 7800,
+					"productusePoint": 0,
+					"productId": 1526,
+					"productMobilePrice": 7800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 1
+				}, {
+					"productName": "新款橡木浴室柜洗漱台组合",
+					"productImage": "http://image.3tcc.cn/imagesService/047q58wj20161220203546223047.jpg",
+					"productPrice": 1698,
+					"productusePoint": 0,
+					"productId": 720,
+					"productMobilePrice": 1658,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 2,
+					"productHits": 57
+				}
+			],
+			"index_car": [
+				{
+					"productName": "通用型汽车枕 GIGI绣花枕",
+					"productImage": "http://image.3tcc.cn/imagesService/687wv3o320170330110609844687.jpg",
+					"productPrice": 79,
+					"productusePoint": 0,
+					"productId": 2682,
+					"productMobilePrice": 79,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 0
+				}, {
+					"productName": "东风超级都市SUV风光370",
+					"productImage": "http://image.3tcc.cn/imagesService/932yqbs420170329154441866932.jpg",
+					"productPrice": 59900,
+					"productusePoint": 0,
+					"productId": 2670,
+					"productMobilePrice": 44000,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 3
+				}, {
+					"productName": "丰田 汉兰达2015款 优惠价格2017年3月31日前有效",
+					"productImage": "http://image.3tcc.cn/imagesService/448q4o0n20170213161100946448.jpg",
+					"productPrice": 239800,
+					"productusePoint": 0,
+					"productId": 2376,
+					"productMobilePrice": 239800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 22
+				}, {
+					"productName": "丰田凯美瑞 2016款 优惠价格2017年3月31日前有效",
+					"productImage": "http://image.3tcc.cn/imagesService/65926j0u20170213152239590659.jpg",
+					"productPrice": 166800,
+					"productusePoint": 0,
+					"productId": 2373,
+					"productMobilePrice": 166800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 12
+				}, {
+					"productName": "奔腾汽车B90",
+					"productImage": "http://image.3tcc.cn/imagesService/828h57e620170112170321728828.jpg",
+					"productPrice": 142800,
+					"productusePoint": 0,
+					"productId": 1779,
+					"productMobilePrice": 142800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 7
+				}, {
+					"productName": "绅宝X25贷款三年免息",
+					"productImage": "http://image.3tcc.cn/imagesService/7679u53o20170106094249651767.jpg",
+					"productPrice": 55800,
+					"productusePoint": 0,
+					"productId": 1386,
+					"productMobilePrice": 55800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 14
+				}, {
+					"productName": "大众斯柯达昕锐送4000大礼包",
+					"productImage": "http://image.3tcc.cn/imagesService/677osjzk20170104171136120677.jpg",
+					"productPrice": 78800,
+					"productusePoint": 0,
+					"productId": 1323,
+					"productMobilePrice": 73900,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 37
+				}, {
+					"productName": "大众斯柯达明锐送4000大礼包",
+					"productImage": "http://image.3tcc.cn/imagesService/819mdk0120170104161944639819.jpg",
+					"productPrice": 101900,
+					"productusePoint": 0,
+					"productId": 1319,
+					"productMobilePrice": 81800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 38
+				}, {
+					"productName": "锐3脚垫",
+					"productImage": "http://image.3tcc.cn/imagesService/719hns5r20170103093950194719.jpg",
+					"productPrice": 380,
+					"productusePoint": 0,
+					"productId": 1184,
+					"productMobilePrice": 380,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 5
+				}, {
+					"productName": "纳智捷5",
+					"productImage": "http://image.3tcc.cn/imagesService/377irlij20161230160930110377.jpg",
+					"productPrice": 83800,
+					"productusePoint": 0,
+					"productId": 1170,
+					"productMobilePrice": 83800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 1,
+					"productHits": 56
+				}, {
+					"productName": "纳智捷5",
+					"productImage": "http://image.3tcc.cn/imagesService/377irlij20161230160930110377.jpg",
+					"productPrice": 83800,
+					"productusePoint": 0,
+					"productId": 1170,
+					"productMobilePrice": 83800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 1,
+					"productHits": 56
+				}, {
+					"productName": "纳智捷5",
+					"productImage": "http://image.3tcc.cn/imagesService/377irlij20161230160930110377.jpg",
+					"productPrice": 83800,
+					"productusePoint": 0,
+					"productId": 1170,
+					"productMobilePrice": 83800,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 1,
+					"productHits": 56
+				}
+			],
+			"index_point": [
+				{
+					"productName": "汽车挂件 饰品高档玉 保平安符车内挂饰葫芦 车上车载摆件",
+					"productImage": "http://image.3tcc.cn/imagesService/5619uyq820161220004352918561.jpg",
+					"productPrice": 158,
+					"productusePoint": 80,
+					"productId": 682,
+					"productMobilePrice": 158,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 124
+				}, {
+					"productName": "美的可充电式led小台灯护眼书桌插电卧室床头大学生宿舍夹子夹式",
+					"productImage": "http://image.3tcc.cn/imagesService/818t93xe20161220002141135818.jpg",
+					"productPrice": 79,
+					"productusePoint": 48,
+					"productId": 675,
+					"productMobilePrice": 79,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 71
+				}, {
+					"productName": "汽车坐垫四季通用新帝豪阳光宝来英朗天籁速腾h6座垫全包专用座套",
+					"productImage": "http://image.3tcc.cn/imagesService/531romu920161219233855259531.jpg",
+					"productPrice": 328,
+					"productusePoint": 50,
+					"productId": 667,
+					"productMobilePrice": 328,
+					"productReviewCount": 0,
+					"productSaleCount": 0,
+					"productFavoriteCount": 0,
+					"productHits": 46
+				}
+			]
+		}
+	}
+]

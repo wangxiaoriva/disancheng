@@ -1,0 +1,42 @@
+[
+	{
+		"totalCount": 3,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "绅宝X55贷款三年免息",
+				"productImage": "http://image.3tcc.cn/imagesService/036tuvji20170106105153429036.jpg",
+				"productPrice": 76800,
+				"productusePoint": 0,
+				"productId": 1424,
+				"productMobilePrice": 76800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 23
+			}, {
+				"productName": "绅宝X25贷款三年免息",
+				"productImage": "http://image.3tcc.cn/imagesService/7679u53o20170106094249651767.jpg",
+				"productPrice": 55800,
+				"productusePoint": 0,
+				"productId": 1386,
+				"productMobilePrice": 55800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 16
+			}, {
+				"productName": "绅宝X35贷款三年免息",
+				"productImage": "http://image.3tcc.cn/imagesService/913g2r6b20170106102752359913.jpg",
+				"productPrice": 65800,
+				"productusePoint": 0,
+				"productId": 1406,
+				"productMobilePrice": 65800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 9
+			}
+		]
+	}
+]

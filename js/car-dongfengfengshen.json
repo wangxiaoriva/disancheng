@@ -1,0 +1,75 @@
+[
+	{
+		"totalCount": 6,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "东风风神AX7",
+				"productImage": "http://image.3tcc.cn/imagesService/9908o07320170105110942852990.jpg",
+				"productPrice": 106700,
+				"productusePoint": 0,
+				"productId": 1349,
+				"productMobilePrice": 106700,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 32
+			}, {
+				"productName": "东风风神AX3",
+				"productImage": "http://image.3tcc.cn/imagesService/282vcs1c20170111145102598282.jpg",
+				"productPrice": 66700,
+				"productusePoint": 0,
+				"productId": 1549,
+				"productMobilePrice": 66700,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 28
+			}, {
+				"productName": "东风风神A60",
+				"productImage": "http://image.3tcc.cn/imagesService/031bg1m420170105114940666031.jpg",
+				"productPrice": 67700,
+				"productusePoint": 0,
+				"productId": 1359,
+				"productMobilePrice": 67700,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 12
+			}, {
+				"productName": "东风超级都市SUV风光330",
+				"productImage": "http://image.3tcc.cn/imagesService/315ixrzu20170330104302763315.jpg",
+				"productPrice": 33800,
+				"productusePoint": 0,
+				"productId": 2674,
+				"productMobilePrice": 33800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 3
+			}, {
+				"productName": "东风超级都市SUV风光370",
+				"productImage": "http://image.3tcc.cn/imagesService/932yqbs420170329154441866932.jpg",
+				"productPrice": 59900,
+				"productusePoint": 0,
+				"productId": 2670,
+				"productMobilePrice": 44000,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 3
+			}, {
+				"productName": "东风超级都市SUV风光580",
+				"productImage": "http://image.3tcc.cn/imagesService/497bznhr20170329153057782497.jpg",
+				"productPrice": 72900,
+				"productusePoint": 0,
+				"productId": 2657,
+				"productMobilePrice": 72900,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 1
+			}
+		]
+	}
+]

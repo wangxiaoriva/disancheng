@@ -1,0 +1,129 @@
+<div class="header-class">
+	<!--头部文本框-->
+	<div class="he-input">
+		<div class="he-input-left">
+			<span class="inputSearch iconfont icon-sousuo"></span>
+			<input type="search" placeholder="请输入搜索关键字" />
+			<span class="inputSaoyisao iconfont icon-scan"></span>
+		</div>
+		<div class="he-input-right">
+			<a href="javascript:;" class="inputMessage iconfont icon-xiaoxi13"></a>
+		</div>
+	</div>
+	<!--头部导航-->
+	<div class="he-nav">
+		<ul class="class-nav">
+			<li ng-repeat="nav in navList" ng-class="{true:'active',false:''}[ss == nav.name]" ng-click="aaa(nav.name)">
+				<a href="javascript:;">
+					<p>{{nav.name}}</p>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<!--家乡味-商品分类内容--->
+<div class="product-sort active">
+	<!--商品分类导航图-->
+	<div class="sort-banner">
+		<img src="http://image.3tcc.cn/imagesService/1261z7ac20170107200105992126.jpg" />
+	</div>
+	<!--商品分类产品-->
+	<div class="sort-product">
+		
+		<div class="sort-container" ng-repeat="title in largecategoryList">
+			<!--商品分类产品--标题-->
+			<div class="sort-product-title">
+				<p>{{title.categoryName}}</p>
+			</div>
+		<!--	商品分类产品--内容区-->
+			<div class="sort-product-main">
+				<ul>
+					<li ng-repeat="category in title.categoryChildren">
+						<a href="javascript:;">
+							<div class="product-img">
+								<img src="{{category.categoryImage}}" />
+							</div>
+							<div class="prduct-txt">
+								<p>{{category.categoryName}}</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!--汽车城-商品分类内容--->
+<div class="product-sort qichecheng">
+	<!--商品分类导航图-->
+	<div class="sort-banner">
+		<img src="http://image.3tcc.cn/imagesService/195lchqt20161220090601780195.jpg" />
+	</div>
+	<!--商品分类产品-->
+	<div class="sort-product">
+		
+		<div class="sort-container" ng-repeat="title in carcategoryList">
+			<!--商品分类产品--标题-->
+			<div class="sort-product-title">
+				<p>{{title.categoryName}}</p>
+			</div>
+		<!--	商品分类产品--内容区-->
+			<div class="sort-product-main">
+				<ul>
+					<li ng-repeat="category in title.categoryChildren">
+						<a href="javascript:;">
+							<div class="product-img">
+								<img src="{{category.categoryImage}}" />
+							</div>
+							<div class="prduct-txt">
+								<p>{{category.categoryName}}</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!--家居城-商品分类内容--->
+<div class="product-sort jiajucheng">
+	<!--商品分类导航图-->
+	<div class="sort-banner">
+		<img src="http://image.3tcc.cn/imagesService/080jw0ml20161220090535794080.jpg" />
+	</div>
+	<!--商品分类产品-->
+	<div class="sort-product">
+		
+		<div class="sort-container" ng-repeat="title in housecategoryList">
+			<!--商品分类产品--标题-->
+			<div class="sort-product-title">
+				<p>{{title.categoryName}}</p>
+			</div>
+		<!--	商品分类产品--内容区-->
+			<div class="sort-product-main">
+				<ul>
+					<li ng-repeat="category in title.categoryChildren">
+						<a href="javascript:;">
+							<div class="product-img">
+								<img src="{{category.categoryImage}}" />
+							</div>
+							<div class="prduct-txt">
+								<p>{{category.categoryName}}</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!--更多-商品分类内容--->
+<div class="product-sort gengduo">
+	<!--商品分类导航图-->
+	<div class="sort-banner">
+		<img src="http://image.3tcc.cn/imagesService/740z97d520161220090446279740.jpg" />
+	</div>
+</div>

@@ -1,0 +1,24 @@
+{
+	"index.html": {
+		"resources": [
+			"js/angular-ui-router.js",
+			"js/swiper-3.4.1.min.js",
+			"css/style.css",
+			"css/menuClass.css",
+			"css/ba.min.css",
+			"css/menuShop.css",
+			"css/swiper-3.4.1.min.css",
+			"js/index.js",
+			"js/angular.min.js",
+			"css/menuMy.css"
+		]
+	},
+	"html/entershopcar.html": {
+		"resources": [
+			"js/angular-ui-router.js",
+			"css/ba.min.css",
+			"css/entershopcar.css",
+			"js/angular.min.js"
+		]
+	}
+}

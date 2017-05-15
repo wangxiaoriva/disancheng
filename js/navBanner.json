@@ -1,0 +1,50 @@
+[
+	{
+		"api_code": "0",
+		"api_data": {
+			"hot": [],
+			"discount": [
+				{
+					"adId": 5,
+					"adImage": "http://image.3tcc.cn/imagesService/318um7cp20170411153155229318.jpg",
+					"adUrl": "",
+					"type": "news"
+				}
+			],
+			"news": [],
+			"hometown": [
+				{
+					"adId": 2,
+					"adImage": "http://image.3tcc.cn/imagesService/8654aam420170411165532596865.jpg",
+					"adUrl": "火龙果",
+					"type": "hometown"
+				}
+			],
+			"house": [
+				{
+					"adId": 3,
+					"adImage": "http://image.3tcc.cn/imagesService/574dle9220170411165544383574.jpg",
+					"adUrl": ",",
+					"type": "house"
+				}
+			],
+			"car": [
+				{
+					"adId": 4,
+					"adImage": "http://image.3tcc.cn/imagesService/8464ai3h20170411165555131846.jpg",
+					"adUrl": ",",
+					"type": "car"
+				}
+			],
+			"integral": [],
+			"villageInCityIndexTour": [],
+			"villageInCityListTour": [],
+			"villageInCityIndexProduct": [],
+			"villageInCityListProduct": [],
+			"villageInCityIndexFinancial": [],
+			"villageInCityListFinancial": [],
+			"villageInCityIndexProject": [],
+			"villageInCityListProject": []
+		}
+	}
+]

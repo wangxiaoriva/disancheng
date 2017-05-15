@@ -1,0 +1,33 @@
+[
+	{
+		"api_code": "0",
+		"api_data": [
+			{
+				"categoryId": 5,
+				"categoryName": "家乡味",
+				"bannerImage": "http://image.3tcc.cn/imagesService/1261z7ac20170107200105992126.jpg",
+				"bannerUrl": "",
+				"type": "hometown",
+				
+			}, {
+				"categoryId": 4,
+				"categoryName": "汽车城",
+				"bannerImage": "http://image.3tcc.cn/imagesService/195lchqt20161220090601780195.jpg",
+				"bannerUrl": "",
+				"type": "car"
+			}, {
+				"categoryId": 3,
+				"categoryName": "家居城",
+				"bannerImage": "http://image.3tcc.cn/imagesService/080jw0ml20161220090535794080.jpg",
+				"bannerUrl": "",
+				"type": "house"
+			}, {
+				"categoryId": 2,
+				"categoryName": "更多",
+				"bannerImage": "http://image.3tcc.cn/imagesService/740z97d520161220090446279740.jpg",
+				"bannerUrl": "更多",
+				"type": "searchresult"
+			}
+		]
+	}
+]

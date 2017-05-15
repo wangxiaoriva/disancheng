@@ -1,0 +1,42 @@
+[
+	{
+		"totalCount": 3,
+		"api_code": 0,
+		"api_data": [
+			{
+				"productName": "北京吉普BJ20贷款三年免息",
+				"productImage": "http://image.3tcc.cn/imagesService/517sox4n20170106150708396517.jpg",
+				"productPrice": 96800,
+				"productusePoint": 0,
+				"productId": 1456,
+				"productMobilePrice": 96800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 52
+			}, {
+				"productName": "北京吉普BJ80贷款三年免息",
+				"productImage": "http://image.3tcc.cn/imagesService/962o4wt020170106155658640962.jpg",
+				"productPrice": 288000,
+				"productusePoint": 0,
+				"productId": 1515,
+				"productMobilePrice": 288000,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 44
+			}, {
+				"productName": "北京吉普BJ40贷款免息三年",
+				"productImage": "http://image.3tcc.cn/imagesService/985fkmhv20170106153310913985.jpg",
+				"productPrice": 129800,
+				"productusePoint": 0,
+				"productId": 1504,
+				"productMobilePrice": 129800,
+				"productReviewCount": 0,
+				"productSaleCount": 0,
+				"productFavoriteCount": 0,
+				"productHits": 30
+			}
+		]
+	}
+]

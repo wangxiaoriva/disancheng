@@ -1,0 +1,873 @@
+.header {
+  position: relative;
+}
+.header .banner {
+  height: 3.18rem;
+  width: 100%;
+  background: gray;
+}
+.header .banner .swiper-slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.header .banner .swiper-pagination-bullet {
+  background: #a9aba6;
+  opacity: 1;
+}
+.header .banner .swiper-pagination-bullet-active {
+  background: #FFFFFF;
+  opacity: 1;
+}
+.header .he-input {
+  z-index: 100;
+  padding: 0 0.4rem 0 0.2rem;
+  box-sizing: border-box;
+  height: 0.49rem;
+  width: 100%;
+  position: absolute;
+  top: 0.4rem;
+  display: flex;
+  color: #FFFFFF;
+}
+.header .he-input .he-input-left {
+  width: 20%;
+  text-align: center;
+}
+.header .he-input .he-input-left a {
+  color: #FFFFFF;
+  font: 0.2rem / 0.49rem "microsoft yahei";
+}
+.header .he-input .he-input-center {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.5);
+  display: flex;
+}
+.header .he-input .he-input-center input {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.5);
+  border: 0;
+  color: #FFFFFF;
+  padding: 0;
+  outline: none;
+  height: 100%;
+  box-sizing: border-box;
+  text-indent: 0.01rem;
+  font: 0.2rem / 0.49rem "microsoft yahei";
+}
+.header .he-input .he-input-center input::-webkit-input-placeholder,
+.header .he-input .he-input-center textarea::-webkit-input-placeholder {
+  color: #FFFFFF;
+}
+.header .he-input .he-input-center input:-moz-placeholder,
+.header .he-input .he-input-center textarea:-moz-placeholder {
+  color: #FFFFFF;
+}
+.header .he-input .he-input-center input::-moz-placeholder,
+.header .he-input .he-input-center textarea::-moz-placeholder {
+  color: #FFFFFF;
+}
+.header .he-input .he-input-center input:-ms-input-placeholder,
+.header .he-input .he-input-center textarea:-ms-input-placeholder {
+  color: #FFFFFF;
+}
+.header .he-input .he-input-center .iconfont {
+  height: 0.49rem;
+  font: 0.26rem / 0.49rem "microsoft yahei";
+}
+.header .he-input .he-input-center .inputSearch {
+  width: 0.48rem;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.5);
+}
+.header .he-input .he-input-center .inputSaoyisao {
+  width: 0.4rem;
+  background: rgba(255, 255, 255, 0.5);
+}
+.header .he-input .he-input-right {
+  width: 20%;
+  position: relative;
+}
+.header .he-input .he-input-right .inputMessage {
+  color: #FFFFFF;
+  font: 0.3rem / 0.49rem "microsoft yahei";
+  position: absolute;
+  right: 0;
+}
+.select {
+  height: 2.64rem;
+  width: 100%;
+}
+.select ul li {
+  width: 20%;
+  height: 1.32rem;
+  background: #fafafa;
+  padding-top: 0.1rem;
+  padding-left: 5%;
+  box-sizing: border-box;
+  float: left;
+}
+.select ul li a .qiche-tu {
+  text-align: center;
+  width: 0.62rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  color: #FFFFFF;
+}
+.select ul li a .qiche-tu p {
+  font: 0.48rem / 0.62rem "microsoft yahei";
+}
+.select ul li a .qiche-txt {
+  margin-top: 0.17rem;
+  font-size: 0.2rem;
+  color: #000000;
+}
+.select ul li:nth-child(1) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0095e3+0,00c4fa+100 */
+  background: #0095e3;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #0095e3 0%, #00c4fa 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #0095e3 0%, #00c4fa 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #0095e3 0%, #00c4fa 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0095e3', endColorstr='#00c4fa', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(2) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f51785+0,fb6b91+100,7db9e8+100 */
+  background: #f51785;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f51785 0%, #fb6b91 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f51785 0%, #fb6b91 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f51785 0%, #fb6b91 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f51785', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(3) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3ecc1b+0,70dc2c+100,7db9e8+100 */
+  background: #3ecc1b;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3ecc1b 0%, #70dc2c 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #3ecc1b 0%, #70dc2c 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #3ecc1b 0%, #70dc2c 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3ecc1b', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(4) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9e29f5+0,d831fc+100,7db9e8+100 */
+  background: #9e29f5;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #9e29f5 0%, #d831fc 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #9e29f5 0%, #d831fc 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #9e29f5 0%, #d831fc 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e29f5', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(5) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#465de1+0,6d86f9+100,7db9e8+100 */
+  background: #465de1;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #465de1 0%, #6d86f9 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #465de1 0%, #6d86f9 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #465de1 0%, #6d86f9 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#465de1', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(6) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fca40b+0,ffc829+100,7db9e8+100 */
+  background: #fca40b;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #fca40b 0%, #ffc829 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #fca40b 0%, #ffc829 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #fca40b 0%, #ffc829 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fca40b', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(7) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff1721+0,f8647c+100,7db9e8+100 */
+  background: #ff1721;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ff1721 0%, #f8647c 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ff1721 0%, #f8647c 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ff1721 0%, #f8647c 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff1721', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(8) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ef8301+0,ffb521+100,7db9e8+100 */
+  background: #ef8301;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ef8301 0%, #ffb521 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ef8301 0%, #ffb521 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ef8301 0%, #ffb521 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ef8301', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(9) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ed3035+0,fb9292+100,7db9e8+100 */
+  background: #ed3035;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ed3035 0%, #fb9292 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ed3035 0%, #fb9292 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ed3035 0%, #fb9292 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed3035', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.select ul li:nth-child(10) .qiche-tu {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3115+0,f38b0d+100,7db9e8+100 */
+  background: #ff3115;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ff3115 0%, #f38b0d 100%, #7db9e8 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ff3115 0%, #f38b0d 100%, #7db9e8 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ff3115 0%, #f38b0d 100%, #7db9e8 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3115', endColorstr='#7db9e8', GradientType=0);
+  /* IE6-9 */
+}
+.main {
+  width: 100%;
+}
+.main .hotSale .hot-ing {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .hotSale .hot-ing:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .hotSale .hot-ing .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .hotSale .hot-ing .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .hotSale .hot-ing .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #d9242b;
+}
+.main .hotSale .hot-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .hotSale .hot-products ul li {
+  float: left;
+  width: 50%;
+  height: 2.32rem;
+  background: #ffffff;
+  border-right: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.18rem;
+  box-sizing: border-box;
+}
+.main .hotSale .hot-products ul li a {
+  display: block;
+  color: #000000;
+}
+.main .hotSale .hot-products ul li a .hot-products-name {
+  height: 0.68rem;
+  width: 1.98rem;
+  font: 0.22rem / 0.34rem "microsoft yahei";
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 0.21rem;
+  box-sizing: border-box;
+}
+.main .hotSale .hot-products ul li a .hot-products-info {
+  height: 1.64rem;
+  display: flex;
+}
+.main .hotSale .hot-products ul li a .hot-products-info .hot-products-price {
+  color: #d9242b;
+  padding-top: 0.17rem;
+  flex: 1;
+}
+.main .hotSale .hot-products ul li a .hot-products-info .hot-products-img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.main .hotSale .hot-products ul li a .hot-products-info .hot-products-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .found-goods {
+  width: 100%;
+  height: 1.52rem;
+}
+.main .found-goods img {
+  width: 100%;
+  height: 1.52rem;
+  display: block;
+}
+.main .new-products {
+  width: 100%;
+}
+.main .new-products .recommed {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .new-products .recommed:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .new-products .recommed .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .new-products .recommed .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .new-products .recommed .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #6971c2;
+}
+.main .new-products .recommed-products {
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: auto;
+  height: 2.31rem;
+  padding: 0 0.13rem 0 0.18rem;
+  box-sizing: border-box;
+}
+.main .new-products .recommed-products ul {
+  width: 16rem;
+}
+.main .new-products .recommed-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .new-products .recommed-products ul li {
+  display: inline-block;
+  width: 1.6rem;
+  float: left;
+}
+.main .new-products .recommed-products ul li a {
+  color: #000000;
+}
+.main .new-products .recommed-products ul li a .recommed-products-img {
+  height: 1.46rem;
+  width: 100%;
+}
+.main .new-products .recommed-products ul li a .recommed-products-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .new-products .recommed-products ul li a .recommed-products-info {
+  height: 0.85rem;
+  width: 100%;
+}
+.main .new-products .recommed-products ul li a .recommed-products-info .recommed-products-name {
+  height: 0.56rem;
+  width: 1.18rem;
+  font: 0.18rem / 0.4rem "microsoft yahei";
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 0.2rem;
+  box-sizing: border-box;
+}
+.main .new-products .recommed-products ul li a .recommed-products-info .recommed-products-price {
+  color: #d9242b;
+}
+.main .villageincity .village {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .villageincity .village:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .villageincity .village .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .villageincity .village .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .villageincity .village .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #91bf16;
+}
+.main .villageincity .village-banner {
+  width: 100%;
+  height: 2.14rem;
+}
+.main .villageincity .village-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .villageincity .village-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .villageincity .village-products ul li {
+  width: 25%;
+  height: 2.1rem;
+  background: #ffffff;
+  border-right: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  border-top: 1px solid #faf8fb;
+  box-sizing: border-box;
+  padding: 0.15rem 0.15rem 0 0.18rem;
+  float: left;
+}
+.main .villageincity .village-products ul li a .village-products-img {
+  height: 1.27rem;
+}
+.main .villageincity .village-products ul li a .village-products-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .villageincity .village-products ul li a .village-products-info {
+  height: 0.67rem;
+}
+.main .villageincity .village-products ul li a .village-products-info .village-products-name {
+  height: 0.39rem;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #000000;
+  font: 0.18rem / 0.24rem "microsoft yahei";
+  padding-top: 0.1rem;
+  box-sizing: border-box;
+}
+.main .villageincity .village-products ul li a .village-products-info .village-products-price {
+  color: #d9242b;
+}
+.main .house .housegraden {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .house .housegraden:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .house .housegraden .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .house .housegraden .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .house .housegraden .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #da23d3;
+}
+.main .house .house-banner {
+  width: 100%;
+  height: 2.14rem;
+}
+.main .house .house-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .house .house-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .house .house-products ul li {
+  width: 33.33%;
+  padding: 0.15rem 0.18rem 0.18rem;
+  height: 2.82rem;
+  background: #ffffff;
+  border-right: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  border-top: 1px solid #faf8fb;
+  box-sizing: border-box;
+  float: left;
+}
+.main .house .house-products ul li a .house-products-img {
+  height: 1.89rem;
+}
+.main .house .house-products ul li a .house-products-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .house .house-products ul li a .house-products-info {
+  height: 0.61rem;
+}
+.main .house .house-products ul li a .house-products-info .house-products-name {
+  height: 0.45rem;
+  width: 1.75rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #000000;
+  font-size: 0.2rem;
+  padding-top: 0.1rem;
+  box-sizing: border-box;
+}
+.main .house .house-products ul li a .house-products-info .house-products-price {
+  color: #d9242b;
+}
+.main .car .cargraden {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .car .cargraden:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .car .cargraden .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .car .cargraden .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .car .cargraden .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #7719c9;
+}
+.main .car .car-banner {
+  width: 100%;
+  height: 2.14rem;
+}
+.main .car .car-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .car .car-products {
+  background: #ffffff;
+}
+.main .car .car-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .car .car-products ul li {
+  width: 25%;
+  height: 2.1rem;
+  padding: 0.16rem 0.16rem 0;
+  border-right: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  border-top: 1px solid #faf8fb;
+  box-sizing: border-box;
+  float: left;
+}
+.main .car .car-products ul li a .car-products-img {
+  height: 1.28rem;
+}
+.main .car .car-products ul li a .car-products-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .car .car-products ul li a .car-products-info {
+  height: 0.49rem;
+}
+.main .car .car-products ul li a .car-products-info .car-products-name {
+  height: 0.3rem;
+  width: 1.12rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #000000;
+  font-size: 0.2rem;
+  box-sizing: border-box;
+}
+.main .car .car-products ul li a .car-products-info .car-products-price {
+  color: #d9242b;
+}
+.main .integral .integralgraden {
+  width: 100%;
+  height: 0.48rem;
+  background: #f2f0f3;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  padding: 0 0.13rem 0 0.17rem;
+  box-sizing: border-box;
+  display: block;
+}
+.main .integral .integralgraden:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .integral .integralgraden .hot-img {
+  width: 2.04rem;
+  height: 0.48rem;
+  float: left;
+  margin-left: 30%;
+}
+.main .integral .integralgraden .hot-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.main .integral .integralgraden .hot-more {
+  float: right;
+  font: 0.2rem / 0.48rem "microsoft yahei";
+  color: #d5207d;
+}
+.main .integral-products {
+  margin-bottom: 1rem;
+  background: #ffffff;
+}
+.main .integral-products ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .integral-products ul li {
+  width: 50%;
+  height: 3.46rem;
+  border-right: 1px solid #faf8fb;
+  border-top: 1px solid #faf8fb;
+  box-sizing: border-box;
+  float: left;
+}
+.main .integral-products ul li.integral-products-fl {
+  padding: 0.38rem 0.34rem 0.17rem 0.32rem;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-img {
+  height: 1.72rem;
+  width: 1.72rem;
+  margin-left: 0.4rem;
+  border-radius: 0.04rem;
+  box-sizing: border-box;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-img img {
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+  height: auto display: block;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-info {
+  height: 0.85rem;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-info .integral-products-name {
+  height: 0.48rem;
+  font: 0.2rem / 0.3rem "microsoft yahei";
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #000000;
+  box-sizing: border-box;
+  width: 2.55rem;
+  padding-top: 0.1rem;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-info .integral-products-price {
+  color: #d9242b;
+  height: 0.37rem;
+}
+.main .integral-products ul li.integral-products-fl .integral-products-info .integral-products-price .jifen {
+  color: #929292;
+}
+.main .integral-products ul li.integral-products-fr ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.main .integral-products ul li.integral-products-fr ul li {
+  padding: 0.2rem 0 0.16rem 0.02rem;
+  width: 50%;
+  height: 1.87rem;
+  border-right: 1px solid #faf8fb;
+  border-top: 1px solid #faf8fb;
+  border-bottom: 1px solid #faf8fb;
+  box-sizing: border-box;
+  float: left;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-img {
+  height: 0.89rem;
+  width: 1.15rem;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-img img {
+  width: 100%;
+  height: 0.89rem;
+  display: block;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-info {
+  height: 0.59rem;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-info .integral-products-name {
+  height: 0.42rem;
+  font: 0.2rem / 0.3rem "microsoft yahei";
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #000000;
+  box-sizing: border-box;
+  width: 1.15rem;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-info .integral-products-price {
+  color: #d9242b;
+  height: 0.16rem;
+  font-size: 0.12rem;
+  width: 100%;
+}
+.main .integral-products ul li.integral-products-fr ul li a .integral-products-info .integral-products-price .jifen {
+  color: #929292;
+  font-size: 0.1rem;
+}
+footer {
+  position: fixed;
+  height: 0.77rem;
+  left: 0;
+  bottom: 0;
+  border-top: 2px solid #eeeeee;
+  width: 100%;
+  box-sizing: border-box;
+  background: #ffffff;
+}
+footer nav ul {
+  display: flex;
+}
+footer nav ul li {
+  flex: 1;
+}
+footer nav ul li.active p {
+  color: #3cb1f7;
+}
+footer nav ul li.active .tu-home {
+  background: url("../img/home-se.png") no-repeat center / cover !important;
+}
+footer nav ul li.active .tu-menuClass {
+  background: url("../img/class-se.png") no-repeat center / cover !important;
+}
+footer nav ul li.active .tu-menuShop {
+  background: url("../img/shopcar-se.png") no-repeat center / cover !important;
+}
+footer nav ul li.active .tu-menuMy {
+  background: url("../img/me-se.png") no-repeat center / cover !important;
+}
+footer nav ul li a {
+  display: block;
+  height: 0.77rem;
+  text-align: center;
+  color: #fff;
+  box-sizing: border-box;
+}
+footer nav ul li a .tu {
+  height: 0.45rem;
+  padding-left: 40%;
+  padding-top: 0.13rem;
+  box-sizing: border-box;
+  width: 100%;
+}
+footer nav ul li a .tu .tu-home {
+  width: 0.32rem;
+  height: 0.32rem;
+  background: url("../img/home.png") no-repeat center / cover;
+}
+footer nav ul li a .tu .tu-menuClass {
+  width: 0.32rem;
+  height: 0.32rem;
+  background: url("../img/class.png") no-repeat center / cover;
+}
+footer nav ul li a .tu .tu-menuShop {
+  width: 0.32rem;
+  height: 0.32rem;
+  background: url("../img/shopcar.png") no-repeat center / cover;
+}
+footer nav ul li a .tu .tu-menuMy {
+  width: 0.32rem;
+  height: 0.32rem;
+  background: url("../img/me.png") no-repeat center / cover;
+}
+footer nav ul li a p {
+  line-height: 0.32rem;
+  color: #999999;
+}

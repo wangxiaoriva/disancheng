@@ -1,0 +1,350 @@
+[
+	{
+		"api_code": "0",
+		"api_data": [
+			{
+				"categoryId": 160,
+				"categoryName": "新 车",
+				"bannerImage": "http://image.3tcc.cn/imagesService/854nbngq20161222200027543854.jpg",
+				"bannerUrl": "新车",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 161,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "五 菱",
+						"categoryImage": "http://image.3tcc.cn/imagesService/677j2lrr20161222200639350677.jpg"
+					}, {
+						"categoryId": 162,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "宝 骏",
+						"categoryImage": "http://image.3tcc.cn/imagesService/268hrg7l20161222202303477268.jpg"
+					}, {
+						"categoryId": 167,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "东南 汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/937y9ng920161228095333605937.jpg"
+					}, {
+						"categoryId": 168,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "骏 派",
+						"categoryImage": "http://image.3tcc.cn/imagesService/041bj2o520161229095728136041.jpg"
+					}, {
+						"categoryId": 171,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "纳 智 捷",
+						"categoryImage": "http://image.3tcc.cn/imagesService/630xkrnk20161229151851428630.jpg"
+					}, {
+						"categoryId": 172,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "海马 汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/478dolhw20161230095007918478.jpg"
+					}, {
+						"categoryId": 175,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "吉普",
+						"categoryImage": "http://image.3tcc.cn/imagesService/931l0i5f20170103103513228931.jpg"
+					}, {
+						"categoryId": 176,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "东风日产",
+						"categoryImage": "http://image.3tcc.cn/imagesService/594y10wg20170103161936130594.jpg"
+					}, {
+						"categoryId": 177,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "大众汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/689cvl3g20170104161657394689.jpg"
+					}, {
+						"categoryId": 178,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "观致汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/796wwhfd20170105100643142796.jpg"
+					}, {
+						"categoryId": 179,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "东风汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/002v4bsy20170105110801580002.jpg"
+					}, {
+						"categoryId": 183,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "斯威",
+						"categoryImage": "http://image.3tcc.cn/imagesService/1999gije20170105155612764199.jpg"
+					}, {
+						"categoryId": 184,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "绅宝汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/579et6ro20170106093541821579.jpg"
+					}, {
+						"categoryId": 185,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "北京吉普",
+						"categoryImage": "http://image.3tcc.cn/imagesService/910l4i1n20170106150424652910.jpg"
+					}, {
+						"categoryId": 199,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "奔腾汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/3516lwmy20170112101801459351.jpg"
+					}, {
+						"categoryId": 202,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "比亚迪汽车",
+						"categoryImage": "http://image.3tcc.cn/imagesService/215gguqi20170116125616650215.jpg"
+					}, {
+						"categoryId": 225,
+						"categoryParent": 160,
+						"categoryParentName": "新 车",
+						"categoryName": "丰田",
+						"categoryImage": "http://image.3tcc.cn/imagesService/256aqwci20170213101140102256.jpg"
+					}
+				]
+			}, {
+				"categoryId": 109,
+				"categoryName": "坐垫/脚垫",
+				"bannerImage": "http://image.3tcc.cn/imagesService/412drpqu20161222135511399412.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 114,
+						"categoryParent": 109,
+						"categoryParentName": "坐垫/脚垫",
+						"categoryName": "坐垫",
+						"categoryImage": "http://image.3tcc.cn/imagesService/690tbn0q20161219190640964690.jpg"
+					}, {
+						"categoryId": 115,
+						"categoryParent": 109,
+						"categoryParentName": "坐垫/脚垫",
+						"categoryName": "脚垫",
+						"categoryImage": "http://image.3tcc.cn/imagesService/985f2ta120161219190841281985.jpg"
+					}, {
+						"categoryId": 182,
+						"categoryParent": 109,
+						"categoryParentName": "坐垫/脚垫",
+						"categoryName": "尾箱垫",
+						"categoryImage": "http://image.3tcc.cn/imagesService/953nquab20170105153141682953.jpg"
+					}
+				]
+			}, {
+				"categoryId": 110,
+				"categoryName": "汽车饰品",
+				"bannerImage": "http://image.3tcc.cn/imagesService/655pefhu20161222135527295655.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 117,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "方向盘套",
+						"categoryImage": "http://image.3tcc.cn/imagesService/412jmrfu20161219190942645412.jpg"
+					}, {
+						"categoryId": 118,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "香水",
+						"categoryImage": "http://image.3tcc.cn/imagesService/019pmiei20161219191003672019.jpg"
+					}, {
+						"categoryId": 119,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "挂件",
+						"categoryImage": "http://image.3tcc.cn/imagesService/6098kfok20161219191034285609.jpg"
+					}, {
+						"categoryId": 130,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "车贴",
+						"categoryImage": "http://image.3tcc.cn/imagesService/637w260h20161219191612977637.jpg"
+					}, {
+						"categoryId": 173,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "座饰",
+						"categoryImage": "http://image.3tcc.cn/imagesService/859go5sd20170103092432158859.jpg"
+					}, {
+						"categoryId": 181,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "头枕",
+						"categoryImage": "http://image.3tcc.cn/imagesService/922sssvy20170105153101351922.jpg"
+					}, {
+						"categoryId": 232,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "净味产品",
+						"categoryImage": "http://image.3tcc.cn/imagesService/730b9ita20170330105717531730.jpg"
+					}, {
+						"categoryId": 233,
+						"categoryParent": 110,
+						"categoryParentName": "汽车饰品",
+						"categoryName": "腰靠",
+						"categoryImage": "http://image.3tcc.cn/imagesService/796yrq5l20170330135053226796.jpg"
+					}
+				]
+			}, {
+				"categoryId": 111,
+				"categoryName": "导航电器",
+				"bannerImage": "http://image.3tcc.cn/imagesService/598di9be20161222135549617598.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 120,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "倒车雷达",
+						"categoryImage": "http://image.3tcc.cn/imagesService/562lcysn20161219191114909562.jpg"
+					}, {
+						"categoryId": 121,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "行车记录仪",
+						"categoryImage": "http://image.3tcc.cn/imagesService/337hax5z20161219191139935337.jpg"
+					}, {
+						"categoryId": 122,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "导航",
+						"categoryImage": "http://image.3tcc.cn/imagesService/807bh9ap20161219191159201807.jpg"
+					}, {
+						"categoryId": 131,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "电子狗",
+						"categoryImage": "http://image.3tcc.cn/imagesService/7468ortp20161219202612529746.jpg"
+					}, {
+						"categoryId": 226,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "车充",
+						"categoryImage": "http://image.3tcc.cn/imagesService/5443o0ow20170216092520213544.jpg"
+					}, {
+						"categoryId": 227,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "灯",
+						"categoryImage": "http://image.3tcc.cn/imagesService/045xpc9o20170216094053227045.jpg"
+					}, {
+						"categoryId": 234,
+						"categoryParent": 111,
+						"categoryParentName": "导航电器",
+						"categoryName": "大屏",
+						"categoryImage": "http://image.3tcc.cn/imagesService/32956ubg20170330142255358329.jpg"
+					}
+				]
+			}, {
+				"categoryId": 112,
+				"categoryName": "美容养护",
+				"bannerImage": "http://image.3tcc.cn/imagesService/665m492920161222135610996665.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 123,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "机油",
+						"categoryImage": "http://image.3tcc.cn/imagesService/968dtrh220161219191255528968.jpg"
+					}, {
+						"categoryId": 124,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "玻璃水",
+						"categoryImage": "http://image.3tcc.cn/imagesService/9018yvu320161219191318240901.jpg"
+					}, {
+						"categoryId": 125,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "擦车巾",
+						"categoryImage": "http://image.3tcc.cn/imagesService/363l8juu20161219191341246363.jpg"
+					}, {
+						"categoryId": 132,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "防冻液",
+						"categoryImage": "http://image.3tcc.cn/imagesService/482vkbb820161219202744733482.jpg"
+					}, {
+						"categoryId": 169,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "车 膜",
+						"categoryImage": "http://image.3tcc.cn/imagesService/476lsph020161229102628799476.jpg"
+					}, {
+						"categoryId": 170,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "汽车 护理",
+						"categoryImage": "http://image.3tcc.cn/imagesService/599evtxj20161229140857490599.jpg"
+					}, {
+						"categoryId": 174,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "座椅套",
+						"categoryImage": "http://image.3tcc.cn/imagesService/0605497r20170103101925975060.jpg"
+					}, {
+						"categoryId": 180,
+						"categoryParent": 112,
+						"categoryParentName": "美容养护",
+						"categoryName": "前杠/后杠",
+						"categoryImage": "http://image.3tcc.cn/imagesService/8405zzod20170105150200799840.jpg"
+					}
+				]
+			}, {
+				"categoryId": 113,
+				"categoryName": "安全/应急/自驾",
+				"bannerImage": "http://image.3tcc.cn/imagesService/611f4u9c20161222135633518611.jpg",
+				"bannerUrl": "",
+				"type": "searchresult",
+				"categoryChildren": [
+					{
+						"categoryId": 126,
+						"categoryParent": 113,
+						"categoryParentName": "安全/应急/自驾",
+						"categoryName": "儿童座椅",
+						"categoryImage": "http://image.3tcc.cn/imagesService/979z01ba20161219191424808979.jpg"
+					}, {
+						"categoryId": 127,
+						"categoryParent": 113,
+						"categoryParentName": "安全/应急/自驾",
+						"categoryName": "防盗器",
+						"categoryImage": "http://image.3tcc.cn/imagesService/225yetq720161219191454398225.jpg"
+					}, {
+						"categoryId": 128,
+						"categoryParent": 113,
+						"categoryParentName": "安全/应急/自驾",
+						"categoryName": "警示牌",
+						"categoryImage": "http://image.3tcc.cn/imagesService/6020mvv120161219191517607602.jpg"
+					}, {
+						"categoryId": 133,
+						"categoryParent": 113,
+						"categoryParentName": "安全/应急/自驾",
+						"categoryName": "胎压计",
+						"categoryImage": "http://image.3tcc.cn/imagesService/2656gjtv20161219202821103265.jpg"
+					}
+				]
+			}, {
+				"categoryId": 228,
+				"categoryName": "雨刮器",
+				"bannerImage": "http://image.3tcc.cn/imagesService/1190vq1620170216103138679119.jpg",
+				"bannerUrl": "",
+				"categoryChildren": []
+			}
+		]
+	}
+]

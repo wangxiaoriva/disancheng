@@ -1,0 +1,78 @@
+<!--头部-->
+<div class="menuMy-header">
+	<!--头部-上-->
+	<div class="he-top">
+		<a class="set">
+			<p class="iconfont icon-iconfontshezhi"></p>
+		</a>
+		<a class="message">
+			<p class="iconfont icon-xiaoxi13"></p>
+		</a>
+	</div>
+	<!--头部-中-->
+	<div class="he-center">
+		<a class="headicon">
+			<div class="headiconimg">
+				<p class="iconfont icon-mao"></p>
+			</div>
+		</a>
+		<a class="headlogin">
+			<p>未登录</p>
+		</a>
+	</div>
+	<!--头部-下-->
+	<div class="he-bottom">
+		<ul>
+			<li>
+				<a href="javascript:;">
+					<div class="coupon iconfont icon-youhuiquan1"></div>
+					<p>优惠券</p>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;">
+					<div class="integral iconfont icon-jifen-copy"></div>
+					<p>积分</p>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;">
+					<div class="redpacket iconfont icon-hongbao"></div>
+					<p>红包</p>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+	
+<!--我的订单-->
+<div class="myOrder">
+	<div class="myorder-title">
+		<div class="my-order">我的订单</div>
+		<a href="javascript:;" class="check-order">
+			<div class="check-order-txt">查看全部订单<span class="check-order-more iconfont icon-xiangyoujiantou"></span></div>
+			
+		</a>
+	</div>
+	<div class="myorder-main">
+		<ul>
+			<li ng-repeat="order in myorder">
+				<a href="javascript:;">
+					<div class="{{order.classname}}"></div>
+					<p>{{order.name}}</p>
+				</a>
+			</li>		
+		</ul>
+	</div>
+</div>
+<!--主要内容-->
+<div class="menuMy-main">
+	<ul>
+		<li ng-repeat="ordermain in myordermain">
+			<a href="javascript:;">
+				<div class="{{ordermain.classname}}"></div>
+				<p>{{ordermain.name}}</p>
+			</a>
+		</li>
+	</ul>
+</div>
